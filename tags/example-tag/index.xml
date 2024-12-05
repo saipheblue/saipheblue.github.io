@@ -6,14 +6,13 @@
         <description>Recent content in Example Tag on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>New post</title>
+        <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello world</title>
         <link>https://saipheblue.github.io/p/hello-world/</link>
-        <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/p/hello-world/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/hello-world/cover.jpg" alt="Featured image of post New post" /&gt;&lt;p&gt;TEST MY NEW POST YAY&lt;/p&gt;
-&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+        <description>&lt;img src="https://saipheblue.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello world" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
 &lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

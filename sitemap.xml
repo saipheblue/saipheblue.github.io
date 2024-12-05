@@ -3,28 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://saipheblue.github.io/p/hello-world/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:57:30+01:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/categories/example-category/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/example-tag/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/post/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:57:30+01:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/p/new-post/</loc>
     <lastmod>2024-12-05T00:57:30+01:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/new-tag/</loc>
+    <lastmod>2024-12-05T00:57:30+01:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/post/</loc>
+    <lastmod>2024-12-05T00:57:30+01:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/categories/super-new/</loc>
+    <lastmod>2024-12-05T00:57:30+01:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/</loc>
+    <lastmod>2024-12-05T00:57:30+01:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/categories/example-category/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/example-tag/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>

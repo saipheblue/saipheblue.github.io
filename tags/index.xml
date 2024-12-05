@@ -6,10 +6,18 @@
         <description>Recent content in Tags on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Dec 2024 00:57:30 +0100</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>New Tag</title>
+        <link>https://saipheblue.github.io/tags/new-tag/</link>
+        <pubDate>Thu, 05 Dec 2024 00:57:30 +0100</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/new-tag/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Example Tag</title>
         <link>https://saipheblue.github.io/tags/example-tag/</link>
-        <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/example-tag/</guid>
         <description></description>
