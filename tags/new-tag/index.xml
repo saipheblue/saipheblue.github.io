@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>New Tag on Hugo Theme Stack Starter</title>
-        <link>https://saipheblue.github.io/tags/new-tag/</link>
-        <description>Recent content in New Tag on Hugo Theme Stack Starter</description>
+        <title>New Tag on Saitech</title>
+        <link>http://localhost:1313/tags/new-tag/</link>
+        <description>Recent content in New Tag on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 05 Dec 2024 00:57:30 +0100</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/new-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Dec 2024 00:57:30 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/new-tag/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>New Post</title>
-        <link>https://saipheblue.github.io/p/new-post/</link>
+        <link>http://localhost:1313/p/new-post/</link>
         <pubDate>Thu, 05 Dec 2024 00:57:30 +0100</pubDate>
         
-        <guid>https://saipheblue.github.io/p/new-post/</guid>
+        <guid>http://localhost:1313/p/new-post/</guid>
         <description>&lt;p&gt;Welcome this is my test&lt;/p&gt;
 </description>
         </item>
