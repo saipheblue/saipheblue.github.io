@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Saitech</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Saitech</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>new post2</title>
+        <link>http://localhost:1313/p/new-post2/</link>
+        <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/new-post2/</guid>
+        <description>&lt;p&gt;Lorem ipsum2&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>new post</title>
+        <link>http://localhost:1313/p/new-post/</link>
+        <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/new-post/</guid>
+        <description>&lt;p&gt;Lorem ipsum&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:1313/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/links/</guid>
+        <description>&lt;p&gt;Useful links&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
