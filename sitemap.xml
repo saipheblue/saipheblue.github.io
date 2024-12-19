@@ -2,38 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/p/memes-gallery/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/arch/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/post/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/linux/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/categories/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/new-post2/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/categories/linux/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/tags/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/tags/terminal/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/new-post/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/tags/youtube/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://saipheblue.github.io/p/yt-x/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/categories/memes/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://saipheblue.github.io/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://saipheblue.github.io/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://saipheblue.github.io/search/</loc>
   </url>
 </urlset>

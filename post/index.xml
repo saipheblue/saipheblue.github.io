@@ -2,26 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Saitech</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://saipheblue.github.io/post/</link>
         <description>Recent content in Posts on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>new post2</title>
-        <link>http://localhost:1313/p/new-post2/</link>
-        <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+        <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Memes gallery</title>
+        <link>https://saipheblue.github.io/p/memes-gallery/</link>
+        <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/new-post2/</guid>
-        <description>&lt;p&gt;Lorem ipsum2&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/memes-gallery/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/memes-gallery/6.png" alt="Featured image of post Memes gallery" /&gt;&lt;p&gt;Just a bunch of memes&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/1.png&#34;
+	width=&#34;950&#34;
+	height=&#34;701&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/1_hu6929347235975829861.png 480w, https://saipheblue.github.io/p/memes-gallery/1_hu5365537318288602450.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;325px&#34;
+	
+&gt; &lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/2.png&#34;
+	width=&#34;1600&#34;
+	height=&#34;2133&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/2_hu14601259989176813003.png 480w, https://saipheblue.github.io/p/memes-gallery/2_hu7810011069717371388.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/3.png&#34;
+	width=&#34;640&#34;
+	height=&#34;640&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/3_hu13418142853958544071.png 480w, https://saipheblue.github.io/p/memes-gallery/3_hu16890307395088355540.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt; &lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/4.png&#34;
+	width=&#34;1776&#34;
+	height=&#34;1889&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/4_hu12665910298790232381.png 480w, https://saipheblue.github.io/p/memes-gallery/4_hu7901512900779235542.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;94&#34;
+		data-flex-basis=&#34;225px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/5.png&#34;
+	width=&#34;640&#34;
+	height=&#34;569&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/5_hu2071663706939018657.png 480w, https://saipheblue.github.io/p/memes-gallery/5_hu9731950826822171630.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;112&#34;
+		data-flex-basis=&#34;269px&#34;
+	
+&gt; &lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/6.png&#34;
+	width=&#34;589&#34;
+	height=&#34;362&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/6_hu6674562080648145556.png 480w, https://saipheblue.github.io/p/memes-gallery/6_hu15765878552376010712.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;390px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/7.png&#34;
+	width=&#34;600&#34;
+	height=&#34;432&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/7_hu17087532014976431307.png 480w, https://saipheblue.github.io/p/memes-gallery/7_hu732644608573678552.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;138&#34;
+		data-flex-basis=&#34;333px&#34;
+	
+&gt; &lt;img src=&#34;https://saipheblue.github.io/p/memes-gallery/8.png&#34;
+	width=&#34;498&#34;
+	height=&#34;959&#34;
+	srcset=&#34;https://saipheblue.github.io/p/memes-gallery/8_hu5989670882788829329.png 480w, https://saipheblue.github.io/p/memes-gallery/8_hu5199842723781336149.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;51&#34;
+		data-flex-basis=&#34;124px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>new post</title>
-        <link>http://localhost:1313/p/new-post/</link>
-        <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+        <title>YT-X</title>
+        <link>https://saipheblue.github.io/p/yt-x/</link>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/new-post/</guid>
-        <description>&lt;p&gt;Lorem ipsum&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/yt-x/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/yt-x/2024-12-19_01-32.png" alt="Featured image of post YT-X" /&gt;&lt;h2 id=&#34;source&#34;&gt;Source
+&lt;/h2&gt;&lt;p&gt;Get it from this repo made by Benexl :
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/Benexl/yt-x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Benexl/yt-x&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;basic-commands&#34;&gt;Basic commands
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# launch the ui
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yt-x
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# edit your config
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yt-x -e
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;youtube-video&#34;&gt;YouTube video
+&lt;/h2&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/-lQabXik_6I&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
         </item>
         
