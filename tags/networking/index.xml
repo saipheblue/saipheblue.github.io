@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Networking on Saitech</title>
+        <link>https://saipheblue.github.io/tags/networking/</link>
+        <description>Recent content in Networking on Saitech</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Colorize IP</title>
+        <link>https://saipheblue.github.io/p/colorize-ip/</link>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/colorize-ip/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/colorize-ip/1.png" alt="Featured image of post Colorize IP" /&gt;&lt;p&gt;Did you know you can colorize and print all IP addresses and interfaces on Linux in a tabular format for better readability?&lt;/p&gt;
+&lt;p&gt;The syntax is:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ip -br -c addr show
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ip -br -c link show
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Source: &lt;a class=&#34;link&#34; href=&#34;https://mastodon.social/@nixCraft/113679576456152013&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mastodon.social/@nixCraft/113679576456152013&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
