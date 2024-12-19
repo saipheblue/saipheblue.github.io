@@ -7,12 +7,12 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Colorize IP</title>
-        <link>https://saipheblue.github.io/p/colorize-ip/</link>
+        <title>Readable IP in terminal</title>
+        <link>https://saipheblue.github.io/p/readable-ip-in-terminal/</link>
         <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/p/colorize-ip/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/colorize-ip/1.png" alt="Featured image of post Colorize IP" /&gt;&lt;p&gt;Did you know you can colorize and print all IP addresses and interfaces on Linux in a tabular format for better readability?&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/readable-ip-in-terminal/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/readable-ip-in-terminal/1.png" alt="Featured image of post Readable IP in terminal" /&gt;&lt;p&gt;Did you know you can colorize and print all IP addresses and interfaces on Linux in a tabular format for better readability?&lt;/p&gt;
 &lt;p&gt;The syntax is:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -31,7 +31,7 @@
         <item>
         <title>YT-X</title>
         <link>https://saipheblue.github.io/p/yt-x/</link>
-        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/p/yt-x/</guid>
         <description>&lt;img src="https://saipheblue.github.io/p/yt-x/2024-12-19_01-32.png" alt="Featured image of post YT-X" /&gt;&lt;h2 id=&#34;source&#34;&gt;Source
