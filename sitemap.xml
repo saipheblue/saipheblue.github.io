@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saipheblue.github.io/p/memes-gallery/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,7 +26,25 @@
     <loc>https://saipheblue.github.io/p/yt-x/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://saipheblue.github.io/tags/arch-linux/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/aur/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/github/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://saipheblue.github.io/categories/memes/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/p/memes-december-24/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/microsoft-explorer/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/pacman/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/archives/</loc>
