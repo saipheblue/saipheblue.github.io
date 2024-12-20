@@ -4,63 +4,105 @@
   <url>
     <loc>https://saipheblue.github.io/</loc>
     <lastmod>2029-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/post/</loc>
     <lastmod>2029-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/categories/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://saipheblue.github.io/p/colorize-and-list-ips/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/categories/linux/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/networking/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/p/readable-ip-in-terminal/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/terminal/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/youtube/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/p/yt-x/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/arch-linux/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/aur/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/p/december-24/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/github/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/categories/memes/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/microsoft-explorer/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/tags/pacman/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/links/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://saipheblue.github.io/search/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
