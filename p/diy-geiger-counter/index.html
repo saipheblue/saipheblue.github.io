@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Build a simple radiation monitor using a Raspberry Pi">
+<title>DIY Geiger counter</title>
+
+<link rel='canonical' href='https://saipheblue.github.io/p/diy-geiger-counter/'>
+
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="DIY Geiger counter">
+<meta property='og:description' content="Build a simple radiation monitor using a Raspberry Pi">
+<meta property='og:url' content='https://saipheblue.github.io/p/diy-geiger-counter/'>
+<meta property='og:site_name' content='Saitech'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='Github' /><meta property='article:tag' content='Geiger–Müller' /><meta property='article:tag' content='Hugo' /><meta property='article:tag' content='Radiation' /><meta property='article:tag' content='Raspberry' /><meta property='article:tag' content='DIY' /><meta property='article:tag' content='flask' /><meta property='article:tag' content='python' /><meta property='article:published_time' content='2024-12-26T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2024-12-26T00:00:00&#43;00:00'/><meta property='og:image' content='https://saipheblue.github.io/p/diy-geiger-counter/3.png' />
+<meta name="twitter:title" content="DIY Geiger counter">
+<meta name="twitter:description" content="Build a simple radiation monitor using a Raspberry Pi"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://saipheblue.github.io/p/diy-geiger-counter/3.png' />
+    <link rel="shortcut icon" href="/favicon.png" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu9979145426672508448.jpg" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">💤</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Saitech</a></h1>
+            <h2 class="site-description">A mini-blog by a hardware enthusiast, Unix wanderer, software explorer, indie game dev and modder.</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#what-will-you-need">What will you need</a></li>
+    <li><a href="#hardware">Hardware</a>
+      <ol>
+        <li><a href="#rpi5-gpio-diagram">Rpi5 GPIO diagram</a></li>
+        <li><a href="#μsvh-ratio">μSv/h Ratio</a></li>
+      </ol>
+    </li>
+    <li><a href="#software">Software</a>
+      <ol>
+        <li><a href="#required-files">Required files</a></li>
+      </ol>
+    </li>
+    <li><a href="#issues--pre-req">Issues &amp; pre-req</a>
+      <ol>
+        <li><a href="#install-flask">Install flask</a></li>
+        <li><a href="#m4011-tube">M4011 tube</a></li>
+        <li><a href="#ssl">SSL</a></li>
+        <li><a href="#gpio-problem">GPIO problem</a></li>
+      </ol>
+    </li>
+    <li><a href="#run-the-script">Run the script</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/diy-geiger-counter/">
+                <img src="/p/diy-geiger-counter/3_hu18397134447393082531.png"
+                        srcset="/p/diy-geiger-counter/3_hu18397134447393082531.png 800w, /p/diy-geiger-counter/3_hu15180378453855834358.png 1600w"
+                        width="800" 
+                        height="465" 
+                        loading="lazy"
+                        alt="Featured image of post DIY Geiger counter" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/hardware/" style="background-color: #660029; color: #fff;">
+                Hardware
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/diy-geiger-counter/">DIY Geiger counter</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Build a simple radiation monitor using a Raspberry Pi
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 26, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    2 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p><img src="/p/diy-geiger-counter/2.png"
+	width="1911"
+	height="1086"
+	srcset="/p/diy-geiger-counter/2_hu5362382509408535200.png 480w, /p/diy-geiger-counter/2_hu8486877396199715324.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="175"
+		data-flex-basis="422px"
+	
+><img src="/p/diy-geiger-counter/1.jpg"
+	width="4000"
+	height="3000"
+	srcset="/p/diy-geiger-counter/1_hu11219505733991928216.jpg 480w, /p/diy-geiger-counter/1_hu4261674103906523970.jpg 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+></p>
+<h2 id="what-will-you-need">What will you need
+</h2><ul>
+<li>Geiger–Müller kit (<a class="link" href="www.ebay.com/itm/396034408437?_skw=Geiger_Counter_RadiationD-v1.1-CAJOE" >for example this one</a>)</li>
+<li>Raspberry pi - any model is fine but guide is written for raspberry pi 5. For older models you will need to make some adjustments</li>
+</ul>
+<h2 id="hardware">Hardware
+</h2><p>Connect 5V to any 5V, Ground to any ground and VIN to GPIO4 (pin 7)</p>
+<h3 id="rpi5-gpio-diagram">Rpi5 GPIO diagram
+</h3><p><img src="/p/diy-geiger-counter/4.png"
+	width="2165"
+	height="1247"
+	srcset="/p/diy-geiger-counter/4_hu14689943616109472642.png 480w, /p/diy-geiger-counter/4_hu17050551416226961946.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="173"
+		data-flex-basis="416px"
+	
+></p>
+<h3 id="μsvh-ratio">μSv/h Ratio
+</h3><p>Check the tube that is installed in your kit. In my case, I have J305. We need to calculate μSv/h ratio based on the tube&rsquo;s sensitivity.
+For J305, almost everyone is using the wrong coefficient/ratio of 0.00812037037037. Here is the formula I used, together with a source elaborating why 0.0081 is wrong: J305 has 25 CPM 1 / (25 * 60 / 8.77)</p>
+<p><a class="link" href="https://medium.com/@iotdevices/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-to-%CE%BCsv-h-technical-note-b0cc14850576"  target="_blank" rel="noopener"
+    >Source</a></p>
+<h2 id="software">Software
+</h2><p>I am using Raspbian OS. If you have a different OS, commands may differ.</p>
+<h3 id="required-files">Required files
+</h3><p>Navigate to <b><a class="link" href="https://github.com/saipheblue/Rpi5_Geiger_Counter_RadiationD-v1.1-CAJOE?search=1"  target="_blank" rel="noopener"
+    >this</a></b> repository and clone it.</p>
+<p>In documentation folder, you can find more detailed information about how everything works and values used in calculations</p>
+<h2 id="issues--pre-req">Issues &amp; pre-req
+</h2><h3 id="install-flask">Install flask
+</h3><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">pip install flask
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>If you got permisisons error, use sudo</p>
+<p>If you get a 404 error, make sure index page is in the &ldquo;templates&rdquo; folder. It is case sensitive. The structure should be as follows:</p>
+<pre><code>Project
+    geiger.py
+    templates
+        index.html
+</code></pre>
+<h3 id="m4011-tube">M4011 tube
+</h3><p>The manufacturer’s documentation lists the M4011, which has the same specs as the J305.</p>
+<h3 id="ssl">SSL
+</h3><p>ssl_context=(&lsquo;cert.pem&rsquo;, &lsquo;key.pem&rsquo;) can be replaced by ssl_context=&lsquo;adhoc&rsquo; if you dont have the keys</p>
+<p><a class="link" href="https://zhangtemplar.github.io/flask/"  target="_blank" rel="noopener"
+    >Source</a></p>
+<h3 id="gpio-problem">GPIO problem
+</h3><p>RPi 5 has issues with GPIO. Remove the current GPIO library using:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo apt remove python3-rpi.gpio
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Then install lgpio:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">python3 -m pip install rpi-lgpio flask
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>If you have installation problems, use this (but it could break system packages, or you can use a virtual environment):</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">python3 -m pip install rpi-lgpio flask --break-system-packages
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><a class="link" href="https://pimylifeup.com/python-externally-managed-environment/"  target="_blank" rel="noopener"
+    >more info</a></p>
+<h2 id="run-the-script">Run the script
+</h2><p>Simply run <b>geiger.py</b> to start measuring:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">python3 geiger.py
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Then navigate to <b>127.0.0.1:80/index</b> to see the chart</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/github/">Github</a>
+        
+            <a href="/tags/geigerm%C3%BCller/">Geiger–Müller</a>
+        
+            <a href="/tags/hugo/">Hugo</a>
+        
+            <a href="/tags/radiation/">Radiation</a>
+        
+            <a href="/tags/raspberry/">Raspberry</a>
+        
+            <a href="/tags/diy/">DIY</a>
+        
+            <a href="/tags/flask/">Flask</a>
+        
+            <a href="/tags/python/">Python</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="8cd09de2-794c-4c2d-a240-056dfbb93551"
+    data-page-id="4e6ec8628b8cef1a126e76b38f07d746"
+    data-page-url="https://saipheblue.github.io/p/diy-geiger-counter/"
+    data-page-title="DIY Geiger counter"></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<script>
+    function setCusdisTheme(theme) {
+        let cusdis = document.querySelector('#cusdis_thread iframe');
+        if (cusdis) {
+            window.CUSDIS.setTheme(theme)
+            cusdis.style.height = "600px"
+
+            if (theme == 'dark') {
+                cusdis.contentWindow.document.body.style.backgroundColor = '#303030';
+            } else {
+				cusdis.contentWindow.document.body.style.backgroundColor = '#f5f5fa';
+            }
+
+        }
+    }
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        setCusdisTheme(e.detail)
+    })
+</script>
+
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2024 Saitech
+    </section>
+    
+    <section class="powerby">
+        
+            <i>Life is a choice: reboot or be root.</i> <br/>
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.29.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
