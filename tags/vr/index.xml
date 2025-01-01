@@ -33,7 +33,8 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;sidequest&#34;&gt;SideQuest
 &lt;/h1&gt;&lt;p&gt;SideQuest is a popular platform for sideloading apps, games, and experimental software onto standalone VR headsets. It expands the possibilities of your VR device beyond the default app store.&lt;/p&gt;
-&lt;p&gt;Visit the official SideQuest site for a detailed guide on how to connect your headset, enable developer mode, and install all prerequisites.&lt;/p&gt;
+&lt;p&gt;Visit the official &lt;a class=&#34;link&#34; href=&#34;https://sidequestvr.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SideQuest site&lt;/a&gt; for a detailed guide on how to connect your headset, enable developer mode, and install all prerequisites.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble connecting your headset, ensure you have ADB (Android Debug Bridge) installed. To check, run:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -84,15 +85,16 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 		data-flex-basis=&#34;455px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;Follow the on-screen instructions to set up ALVR. Be sure to mark the headset as &amp;ldquo;trusted.&amp;rdquo; Once done, start SteamVR.&lt;/p&gt;
+&lt;p&gt;Follow the on-screen instructions to set up ALVR. Be sure to mark the headset as &amp;ldquo;trusted.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Once done, start SteamVR.&lt;/p&gt;
+&lt;p&gt;From there, &lt;b&gt;manually start&lt;/b&gt; VR games from your PC. While this is a limitation, once the game is running, you can enjoy your session in the VR headset.&lt;/p&gt;
 &lt;h1 id=&#34;fix-for-black-screen-on-headset&#34;&gt;Fix for Black Screen on Headset
 &lt;/h1&gt;&lt;p&gt;If your VR game runs on your PC but your headset displays a black screen, try this fix:
 Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;~/.local/share/Steam/steamapps/common/SteamVR/bin/vrmonitor.sh %command%&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;(Note: File paths may vary depending on where you installed SteamVR.)&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;From there, manually start VR games from your PC. While this is a limitation, once the game is running, you can enjoy your session in the VR headset.&lt;/p&gt;
-&lt;p&gt;Happy gaming ! :)&lt;/p&gt;
-</description>
+&lt;h1 id=&#34;happy-gaming--&#34;&gt;Happy gaming ! :)
+&lt;/h1&gt;</description>
         </item>
         
     </channel>
