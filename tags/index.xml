@@ -7,22 +7,6 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Arch Linux</title>
-        <link>https://saipheblue.github.io/tags/arch-linux/</link>
-        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/arch-linux/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>BSOD</title>
-        <link>https://saipheblue.github.io/tags/bsod/</link>
-        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/bsod/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Free</title>
         <link>https://saipheblue.github.io/tags/free/</link>
         <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -84,6 +68,14 @@
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/alvr/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Arch Linux</title>
+        <link>https://saipheblue.github.io/tags/arch-linux/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/arch-linux/</guid>
         <description></description>
         </item>
         <item>
@@ -228,30 +220,6 @@
         <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/youtube/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>AUR</title>
-        <link>https://saipheblue.github.io/tags/aur/</link>
-        <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/aur/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Microsoft Explorer</title>
-        <link>https://saipheblue.github.io/tags/microsoft-explorer/</link>
-        <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/microsoft-explorer/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Pacman</title>
-        <link>https://saipheblue.github.io/tags/pacman/</link>
-        <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/pacman/</guid>
         <description></description>
         </item>
         
