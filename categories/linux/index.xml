@@ -13,8 +13,8 @@
         
         <guid>https://saipheblue.github.io/p/quest-3-on-arch/</guid>
         <description>&lt;img src="https://saipheblue.github.io/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
-&lt;h1 id=&#34;steamvr&#34;&gt;SteamVR
-&lt;/h1&gt;&lt;p&gt;SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
+&lt;h2 id=&#34;steamvr&#34;&gt;SteamVR
+&lt;/h2&gt;&lt;p&gt;SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
 It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve previously used your headset on Windows, you might encounter an issue with Steam Link on Linux. It displays the error:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&#39;Streaming VR is not available from that computer.&#39;&lt;/code&gt;&lt;/p&gt;
@@ -31,8 +31,8 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 		data-flex-basis=&#34;1032px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;h1 id=&#34;sidequest&#34;&gt;SideQuest
-&lt;/h1&gt;&lt;p&gt;SideQuest is a popular platform for sideloading apps, games, and experimental software onto standalone VR headsets. It expands the possibilities of your VR device beyond the default app store.&lt;/p&gt;
+&lt;h2 id=&#34;sidequest&#34;&gt;SideQuest
+&lt;/h2&gt;&lt;p&gt;SideQuest is a popular platform for sideloading apps, games, and experimental software onto standalone VR headsets. It expands the possibilities of your VR device beyond the default app store.&lt;/p&gt;
 &lt;p&gt;Visit the official &lt;a class=&#34;link&#34; href=&#34;https://sidequestvr.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;SideQuest site&lt;/a&gt; for a detailed guide on how to connect your headset, enable developer mode, and install all prerequisites.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble connecting your headset, ensure you have ADB (Android Debug Bridge) installed. To check, run:&lt;/p&gt;
@@ -53,8 +53,8 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pacman&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;S&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;android&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h1 id=&#34;alvr-air-light-vr&#34;&gt;ALVR (Air Light VR)
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2.png&#34;
+&lt;/div&gt;&lt;h2 id=&#34;alvr-air-light-vr&#34;&gt;ALVR (Air Light VR)
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2.png&#34;
 	width=&#34;2549&#34;
 	height=&#34;492&#34;
 	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2_hu474655151797802696.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
@@ -88,13 +88,16 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;p&gt;Follow the on-screen instructions to set up ALVR. Be sure to mark the headset as &amp;ldquo;trusted.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Once done, start SteamVR.&lt;/p&gt;
 &lt;p&gt;From there, &lt;b&gt;manually start&lt;/b&gt; VR games from your PC. While this is a limitation, once the game is running, you can enjoy your session in the VR headset.&lt;/p&gt;
-&lt;h1 id=&#34;fix-for-black-screen-on-headset&#34;&gt;Fix for Black Screen on Headset
-&lt;/h1&gt;&lt;p&gt;If your VR game runs on your PC but your headset displays a black screen, try this fix:
+&lt;h2 id=&#34;tips--tricks&#34;&gt;Tips &amp;amp; tricks
+&lt;/h2&gt;&lt;h3 id=&#34;fix-for-black-screen-on-headset&#34;&gt;Fix for Black Screen on Headset
+&lt;/h3&gt;&lt;p&gt;If your VR game runs on your PC but your headset displays a black screen, try this fix:
 Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;~/.local/share/Steam/steamapps/common/SteamVR/bin/vrmonitor.sh %command%&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;(Note: File paths may vary depending on where you installed SteamVR.)&lt;/i&gt;&lt;/p&gt;
-&lt;h1 id=&#34;happy-gaming--&#34;&gt;Happy gaming ! :)
-&lt;/h1&gt;</description>
+&lt;h3 id=&#34;fix-for-games-not-launching-in-vr-mode&#34;&gt;Fix for Games Not Launching in VR Mode
+&lt;/h3&gt;&lt;p&gt;Is the game not launching in VR mode? Go to the game properties, then to Compatibility, and enable Proton. After that, in General settings or during the first game launch, it will ask if you want to play in normal mode or VR mode.&lt;/p&gt;
+&lt;h2 id=&#34;happy-gaming--&#34;&gt;Happy gaming ! :)
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>Colorize and List IPs</title>

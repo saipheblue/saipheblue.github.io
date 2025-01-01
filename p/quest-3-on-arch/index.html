@@ -219,7 +219,47 @@
     </ol>
 </aside>
 
-    
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#steamvr">SteamVR</a></li>
+    <li><a href="#sidequest">SideQuest</a></li>
+    <li><a href="#alvr-air-light-vr">ALVR (Air Light VR)</a></li>
+    <li><a href="#tips--tricks">Tips &amp; tricks</a>
+      <ol>
+        <li><a href="#fix-for-black-screen-on-headset">Fix for Black Screen on Headset</a></li>
+        <li><a href="#fix-for-games-not-launching-in-vr-mode">Fix for Games Not Launching in VR Mode</a></li>
+      </ol>
+    </li>
+    <li><a href="#happy-gaming--">Happy gaming ! :)</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
 
             <main class="main full-width">
     <article class="has-image main-article">
@@ -307,8 +347,8 @@
     
     
     <p>There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.</p>
-<h1 id="steamvr">SteamVR
-</h1><p>SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
+<h2 id="steamvr">SteamVR
+</h2><p>SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
 It is part of your Steam library—just download and run it.</p>
 <p>If you&rsquo;ve previously used your headset on Windows, you might encounter an issue with Steam Link on Linux. It displays the error:</p>
 <p><code>'Streaming VR is not available from that computer.'</code></p>
@@ -325,8 +365,8 @@ It is part of your Steam library—just download and run it.</p>
 		data-flex-basis="1032px"
 	
 ></p>
-<h1 id="sidequest">SideQuest
-</h1><p>SideQuest is a popular platform for sideloading apps, games, and experimental software onto standalone VR headsets. It expands the possibilities of your VR device beyond the default app store.</p>
+<h2 id="sidequest">SideQuest
+</h2><p>SideQuest is a popular platform for sideloading apps, games, and experimental software onto standalone VR headsets. It expands the possibilities of your VR device beyond the default app store.</p>
 <p>Visit the official <a class="link" href="https://sidequestvr.com/"  target="_blank" rel="noopener"
     >SideQuest site</a> for a detailed guide on how to connect your headset, enable developer mode, and install all prerequisites.</p>
 <p>If you&rsquo;re having trouble connecting your headset, ensure you have ADB (Android Debug Bridge) installed. To check, run:</p>
@@ -347,8 +387,8 @@ It is part of your Steam library—just download and run it.</p>
 <pre tabindex="0" class="chroma"><code class="language-gdscript3" data-lang="gdscript3"><span class="line"><span class="cl"><span class="n">sudo</span> <span class="n">pacman</span> <span class="o">-</span><span class="n">S</span> <span class="n">android</span><span class="o">-</span><span class="n">tools</span>
 </span></span></code></pre></td></tr></table>
 </div>
-</div><h1 id="alvr-air-light-vr">ALVR (Air Light VR)
-</h1><p><img src="/p/quest-3-on-arch/2.png"
+</div><h2 id="alvr-air-light-vr">ALVR (Air Light VR)
+</h2><p><img src="/p/quest-3-on-arch/2.png"
 	width="2549"
 	height="492"
 	srcset="/p/quest-3-on-arch/2_hu474655151797802696.png 480w, /p/quest-3-on-arch/2_hu6650122288950677746.png 1024w"
@@ -382,13 +422,16 @@ It is part of your Steam library—just download and run it.</p>
 <p>Follow the on-screen instructions to set up ALVR. Be sure to mark the headset as &ldquo;trusted.&rdquo;</p>
 <p>Once done, start SteamVR.</p>
 <p>From there, <b>manually start</b> VR games from your PC. While this is a limitation, once the game is running, you can enjoy your session in the VR headset.</p>
-<h1 id="fix-for-black-screen-on-headset">Fix for Black Screen on Headset
-</h1><p>If your VR game runs on your PC but your headset displays a black screen, try this fix:
+<h2 id="tips--tricks">Tips &amp; tricks
+</h2><h3 id="fix-for-black-screen-on-headset">Fix for Black Screen on Headset
+</h3><p>If your VR game runs on your PC but your headset displays a black screen, try this fix:
 Add the following command to SteamVR&rsquo;s launch options:</p>
 <p><code>~/.local/share/Steam/steamapps/common/SteamVR/bin/vrmonitor.sh %command%</code></p>
 <p><i>(Note: File paths may vary depending on where you installed SteamVR.)</i></p>
-<h1 id="happy-gaming--">Happy gaming ! :)
-</h1>
+<h3 id="fix-for-games-not-launching-in-vr-mode">Fix for Games Not Launching in VR Mode
+</h3><p>Is the game not launching in VR mode? Go to the game properties, then to Compatibility, and enable Proton. After that, in General settings or during the first game launch, it will ask if you want to play in normal mode or VR mode.</p>
+<h2 id="happy-gaming--">Happy gaming ! :)
+</h2>
 </section>
 
 
@@ -490,7 +533,7 @@ Add the following command to SteamVR&rsquo;s launch options:</p>
     <div id="cusdis_thread"
     data-host="https://cusdis.com"
     data-app-id="8cd09de2-794c-4c2d-a240-056dfbb93551"
-    data-page-id="fd42d6d7ee65771c7484597e2bf8ed18"
+    data-page-id="f1ec0fc0e0ee368479d4987729d4201b"
     data-page-url="https://saipheblue.github.io/p/quest-3-on-arch/"
     data-page-title="Quest 3 on Arch"></div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
