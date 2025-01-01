@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>SideQuest on Saitech</title>
+        <link>https://saipheblue.github.io/tags/sidequest/</link>
+        <description>Recent content in SideQuest on Saitech</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/sidequest/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Quest 3 on Arch</title>
+        <link>https://saipheblue.github.io/p/quest-3-on-arch/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/quest-3-on-arch/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
+&lt;h1 id=&#34;steamvr&#34;&gt;SteamVR
+&lt;/h1&gt;&lt;p&gt;SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
+It is part of your Steam library—just download and run it.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve previously used your headset on Windows, you might encounter an issue with Steam Link on Linux. It displays the error:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&#39;Streaming VR is not available from that computer.&#39;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Due to this limitation, we need to use alternative software to pair with SteamVR.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1.png&#34;
+	width=&#34;1743&#34;
+	height=&#34;405&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1_hu1533604363331417481.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/1_hu4519556953867718277.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;430&#34;
+		data-flex-basis=&#34;1032px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;sidequest&#34;&gt;SideQuest
+&lt;/h1&gt;&lt;p&gt;SideQuest is a popular platform for sideloading apps, games, and experimental software onto standalone VR headsets. It expands the possibilities of your VR device beyond the default app store.&lt;/p&gt;
+&lt;p&gt;Visit the official SideQuest site for a detailed guide on how to connect your headset, enable developer mode, and install all prerequisites.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re having trouble connecting your headset, ensure you have ADB (Android Debug Bridge) installed. To check, run:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb version
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;If it’s not installed, you can get it with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pacman&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;S&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;android&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;alvr-air-light-vr&#34;&gt;ALVR (Air Light VR)
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2.png&#34;
+	width=&#34;2549&#34;
+	height=&#34;492&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2_hu474655151797802696.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;518&#34;
+		data-flex-basis=&#34;1243px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ALVR allows wireless PC VR gaming by streaming games from your PC to a standalone headset like the Meta Quest series. It uses low-latency video encoding to provide a seamless experience.&lt;/p&gt;
+&lt;p&gt;Download ALVR from the official &lt;a class=&#34;link&#34; href=&#34;https://github.com/alvr-org/ALVR/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ALVR GitHub releases page&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install the APK on your headset using SideQuest.&lt;/li&gt;
+&lt;li&gt;Extract the &lt;code&gt;.tar&lt;/code&gt; file on your Arch Linux machine and run the executable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;1348&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4_hu5291950623060969288.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/4_hu9895093760156796286.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;455px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Follow the on-screen instructions to set up ALVR. Be sure to mark the headset as &amp;ldquo;trusted.&amp;rdquo; Once done, start SteamVR.&lt;/p&gt;
+&lt;h1 id=&#34;fix-for-black-screen-on-headset&#34;&gt;Fix for Black Screen on Headset
+&lt;/h1&gt;&lt;p&gt;If your VR game runs on your PC but your headset displays a black screen, try this fix:
+Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;~/.local/share/Steam/steamapps/common/SteamVR/bin/vrmonitor.sh %command%&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;(Note: File paths may vary depending on where you installed SteamVR.)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;From there, manually start VR games from your PC. While this is a limitation, once the game is running, you can enjoy your session in the VR headset.&lt;/p&gt;
+&lt;p&gt;Happy gaming ! :)&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
