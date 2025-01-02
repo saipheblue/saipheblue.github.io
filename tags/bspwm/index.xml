@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Script on Saitech</title>
-        <link>http://localhost:1313/tags/script/</link>
-        <description>Recent content in Script on Saitech</description>
+        <title>Bspwm on Saitech</title>
+        <link>http://localhost:1313/tags/bspwm/</link>
+        <description>Recent content in Bspwm on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/script/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bspwm/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quick Audio Management</title>
         <link>http://localhost:1313/p/quick-audio-management/</link>
         <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
