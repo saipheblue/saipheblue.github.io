@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Memes</title>
+        <link>https://saipheblue.github.io/categories/memes/</link>
+        <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/categories/memes/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Games</title>
         <link>https://saipheblue.github.io/categories/games/</link>
         <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -28,14 +36,6 @@
         <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/categories/hardware/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Memes</title>
-        <link>https://saipheblue.github.io/categories/memes/</link>
-        <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/categories/memes/</guid>
         <description></description>
         </item>
         
