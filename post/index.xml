@@ -484,7 +484,7 @@ For J305, almost everyone is using the wrong coefficient/ratio of 0.008120370370
         <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/p/colorize-and-list-ips/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/colorize-and-list-ips/1.png" alt="Featured image of post Colorize and List IPs" /&gt;&lt;p&gt;Did you know you can colorize and print all IP addresses and interfaces on Linux in a tabular format for better readability?&lt;/p&gt;
+        <description>&lt;img src="https://saipheblue.github.io/p/colorize-and-list-ips/1.png" alt="Featured image of post Colorize and List IPs" /&gt;&lt;p&gt;Did you know you can display all IP addresses and interfaces on Linux in a neatly formatted table for easier reading?&lt;/p&gt;
 &lt;p&gt;The syntax is:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
