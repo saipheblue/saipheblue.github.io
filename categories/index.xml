@@ -6,21 +6,21 @@
         <description>Recent content in Categories on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bookmark</title>
+        <link>https://saipheblue.github.io/categories/bookmark/</link>
+        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/categories/bookmark/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/categories/bookmark/1.png" alt="Featured image of post Bookmark" /&gt;</description>
+        </item>
+        <item>
         <title>Linux</title>
         <link>https://saipheblue.github.io/categories/linux/</link>
         <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/categories/linux/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Memes</title>
-        <link>https://saipheblue.github.io/categories/memes/</link>
-        <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/categories/memes/</guid>
-        <description></description>
+        <description>&lt;img src="https://saipheblue.github.io/categories/linux/1.png" alt="Featured image of post Linux" /&gt;</description>
         </item>
         <item>
         <title>Games</title>
@@ -28,7 +28,15 @@
         <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/categories/games/</guid>
-        <description></description>
+        <description>&lt;img src="https://saipheblue.github.io/categories/games/1.png" alt="Featured image of post Games" /&gt;</description>
+        </item>
+        <item>
+        <title>Guides</title>
+        <link>https://saipheblue.github.io/categories/guides/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/categories/guides/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/categories/guides/1.png" alt="Featured image of post Guides" /&gt;</description>
         </item>
         <item>
         <title>Hardware</title>
@@ -36,7 +44,7 @@
         <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/categories/hardware/</guid>
-        <description></description>
+        <description>&lt;img src="https://saipheblue.github.io/categories/hardware/1.png" alt="Featured image of post Hardware" /&gt;</description>
         </item>
         
     </channel>

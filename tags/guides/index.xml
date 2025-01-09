@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Guides on Saitech</title>
+        <link>http://localhost:1313/tags/guides/</link>
+        <description>Recent content in Guides on Saitech</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/guides/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>DIY Geiger counter</title>
+        <link>http://localhost:1313/p/diy-geiger-counter/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/diy-geiger-counter/</guid>
+        <description>&lt;img src="http://localhost:1313/p/diy-geiger-counter/5.jpg" alt="Featured image of post DIY Geiger counter" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/diy-geiger-counter/2.png&#34;
+	width=&#34;1911&#34;
+	height=&#34;1086&#34;
+	srcset=&#34;http://localhost:1313/p/diy-geiger-counter/2_hu5362382509408535200.png 480w, http://localhost:1313/p/diy-geiger-counter/2_hu8486877396199715324.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;175&#34;
+		data-flex-basis=&#34;422px&#34;
+	
+&gt;&lt;img src=&#34;http://localhost:1313/p/diy-geiger-counter/1.jpg&#34;
+	width=&#34;4000&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;http://localhost:1313/p/diy-geiger-counter/1_hu11219505733991928216.jpg 480w, http://localhost:1313/p/diy-geiger-counter/1_hu4261674103906523970.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-will-you-need&#34;&gt;What will you need
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Geiger–Müller kit &lt;a class=&#34;link&#34; href=&#34;https://www.ebay.com/itm/396034408437?_skw=Geiger_Counter_RadiationD-v1.1-CAJOE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;for example this one&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Raspberry pi - any model is fine but guide is written for raspberry pi 5. For older models you will need to make some adjustments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware
+&lt;/h2&gt;&lt;p&gt;Connect 5V to any 5V, Ground to any ground and VIN to GPIO4 (pin 7)&lt;/p&gt;
+&lt;h3 id=&#34;rpi5-gpio-diagram&#34;&gt;Rpi5 GPIO diagram
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/diy-geiger-counter/4.png&#34;
+	width=&#34;2165&#34;
+	height=&#34;1247&#34;
+	srcset=&#34;http://localhost:1313/p/diy-geiger-counter/4_hu14689943616109472642.png 480w, http://localhost:1313/p/diy-geiger-counter/4_hu17050551416226961946.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;173&#34;
+		data-flex-basis=&#34;416px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;μsvh-ratio&#34;&gt;μSv/h Ratio
+&lt;/h3&gt;&lt;p&gt;Check the tube that is installed in your kit. In my case, I have J305. We need to calculate μSv/h ratio based on the tube&amp;rsquo;s sensitivity.
+For J305, almost everyone is using the wrong coefficient/ratio of 0.00812037037037. Here is the formula I used, together with a source elaborating why 0.0081 is wrong: J305 has 25 CPM 1 / (25 * 60 / 8.77)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://medium.com/@iotdevices/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-to-%CE%BCsv-h-technical-note-b0cc14850576&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software
+&lt;/h2&gt;&lt;p&gt;I am using Raspbian OS. If you have a different OS, commands may differ.&lt;/p&gt;
+&lt;h3 id=&#34;required-files&#34;&gt;Required files
+&lt;/h3&gt;&lt;p&gt;Navigate to &lt;b&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/saipheblue/Rpi5_Geiger_Counter_RadiationD-v1.1-CAJOE?search=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this&lt;/a&gt;&lt;/b&gt; repository and clone it.&lt;/p&gt;
+&lt;p&gt;In documentation folder, you can find more detailed information about how everything works and values used in calculations&lt;/p&gt;
+&lt;h2 id=&#34;issues--pre-req&#34;&gt;Issues &amp;amp; pre-req
+&lt;/h2&gt;&lt;h3 id=&#34;install-flask&#34;&gt;Install flask
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pip install flask
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;If you got permisisons error, use sudo&lt;/p&gt;
+&lt;p&gt;If you get a 404 error, make sure index page is in the &amp;ldquo;templates&amp;rdquo; folder. It is case sensitive. The structure should be as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Project
+    geiger.py
+    templates
+        index.html
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;m4011-tube&#34;&gt;M4011 tube
+&lt;/h3&gt;&lt;p&gt;The manufacturer’s documentation lists the M4011, which has the same specs as the J305.&lt;/p&gt;
+&lt;h3 id=&#34;ssl&#34;&gt;SSL
+&lt;/h3&gt;&lt;p&gt;ssl_context=(&amp;lsquo;cert.pem&amp;rsquo;, &amp;lsquo;key.pem&amp;rsquo;) can be replaced by ssl_context=&amp;lsquo;adhoc&amp;rsquo; if you dont have the keys&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhangtemplar.github.io/flask/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;gpio-problem&#34;&gt;GPIO problem
+&lt;/h3&gt;&lt;p&gt;RPi 5 has issues with GPIO. Remove the current GPIO library using:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt remove python3-rpi.gpio
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Then install lgpio:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python3 -m pip install rpi-lgpio flask
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;If you have installation problems, use this (but it could break system packages, or you can use a virtual environment):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python3 -m pip install rpi-lgpio flask --break-system-packages
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pimylifeup.com/python-externally-managed-environment/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;more info&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;run-the-script&#34;&gt;Run the script
+&lt;/h2&gt;&lt;p&gt;Simply run &lt;b&gt;geiger.py&lt;/b&gt; to start measuring:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python3 geiger.py
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Then navigate to &lt;b&gt;127.0.0.1:80/index&lt;/b&gt; to see the chart&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
