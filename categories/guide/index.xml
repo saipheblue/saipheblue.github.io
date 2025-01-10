@@ -151,7 +151,8 @@ Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;μsvh-ratio&#34;&gt;μSv/h Ratio
 &lt;/h3&gt;&lt;p&gt;Check the tube that is installed in your kit. In my case, I have J305. We need to calculate μSv/h ratio based on the tube&amp;rsquo;s sensitivity.
-For J305, almost everyone is using the wrong coefficient/ratio of 0.00812037037037. Here is the formula I used, together with a source elaborating why 0.0081 is wrong: J305 has 25 CPM 1 / (25 * 60 / 8.77)&lt;/p&gt;
+For J305, almost everyone is using the wrong coefficient/ratio of 0.00812037037037. Here is the formula I used, together with a source elaborating why 0.0081 is wrong: J305 has 25 CPM&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;1 / (25 * 60 / 8.77) = 0.00584666666667&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://medium.com/@iotdevices/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-to-%CE%BCsv-h-technical-note-b0cc14850576&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Source&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;software&#34;&gt;Software
@@ -180,7 +181,7 @@ For J305, almost everyone is using the wrong coefficient/ratio of 0.008120370370
 &lt;h3 id=&#34;m4011-tube&#34;&gt;M4011 tube
 &lt;/h3&gt;&lt;p&gt;The manufacturer’s documentation lists the M4011, which has the same specs as the J305.&lt;/p&gt;
 &lt;h3 id=&#34;ssl&#34;&gt;SSL
-&lt;/h3&gt;&lt;p&gt;ssl_context=(&amp;lsquo;cert.pem&amp;rsquo;, &amp;lsquo;key.pem&amp;rsquo;) can be replaced by ssl_context=&amp;lsquo;adhoc&amp;rsquo; if you dont have the keys&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;code&gt;ssl_context=(&#39;cert.pem&#39;, &#39;key.pem&#39;)&lt;/code&gt; can be replaced by &lt;code&gt;ssl_context=&#39;adhoc&#39;&lt;/code&gt; if you dont have the keys&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhangtemplar.github.io/flask/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Source&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;gpio-problem&#34;&gt;GPIO problem
@@ -223,7 +224,7 @@ For J305, almost everyone is using the wrong coefficient/ratio of 0.008120370370
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python3 geiger.py
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;Then navigate to &lt;b&gt;127.0.0.1:80/index&lt;/b&gt; to see the chart&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;Then navigate to &lt;b&gt;&lt;code&gt;127.0.0.1:80/index&lt;/code&gt;&lt;/b&gt; to see the chart&lt;/p&gt;
 </description>
         </item>
         

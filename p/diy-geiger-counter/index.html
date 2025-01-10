@@ -407,7 +407,8 @@
 ></p>
 <h3 id="μsvh-ratio">μSv/h Ratio
 </h3><p>Check the tube that is installed in your kit. In my case, I have J305. We need to calculate μSv/h ratio based on the tube&rsquo;s sensitivity.
-For J305, almost everyone is using the wrong coefficient/ratio of 0.00812037037037. Here is the formula I used, together with a source elaborating why 0.0081 is wrong: J305 has 25 CPM 1 / (25 * 60 / 8.77)</p>
+For J305, almost everyone is using the wrong coefficient/ratio of 0.00812037037037. Here is the formula I used, together with a source elaborating why 0.0081 is wrong: J305 has 25 CPM</p>
+<p><code>1 / (25 * 60 / 8.77) = 0.00584666666667</code></p>
 <p><a class="link" href="https://medium.com/@iotdevices/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-to-%CE%BCsv-h-technical-note-b0cc14850576"  target="_blank" rel="noopener"
     >Source</a></p>
 <h2 id="software">Software
@@ -436,7 +437,7 @@ For J305, almost everyone is using the wrong coefficient/ratio of 0.008120370370
 <h3 id="m4011-tube">M4011 tube
 </h3><p>The manufacturer’s documentation lists the M4011, which has the same specs as the J305.</p>
 <h3 id="ssl">SSL
-</h3><p>ssl_context=(&lsquo;cert.pem&rsquo;, &lsquo;key.pem&rsquo;) can be replaced by ssl_context=&lsquo;adhoc&rsquo; if you dont have the keys</p>
+</h3><p><code>ssl_context=('cert.pem', 'key.pem')</code> can be replaced by <code>ssl_context='adhoc'</code> if you dont have the keys</p>
 <p><a class="link" href="https://zhangtemplar.github.io/flask/"  target="_blank" rel="noopener"
     >Source</a></p>
 <h3 id="gpio-problem">GPIO problem
@@ -479,7 +480,7 @@ For J305, almost everyone is using the wrong coefficient/ratio of 0.008120370370
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">python3 geiger.py
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>Then navigate to <b>127.0.0.1:80/index</b> to see the chart</p>
+</div><p>Then navigate to <b><code>127.0.0.1:80/index</code></b> to see the chart</p>
 
 </section>
 
