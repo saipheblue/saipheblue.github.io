@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Steam on Saitech</title>
-        <link>http://localhost:1313/tags/steam/</link>
+        <link>https://saipheblue.github.io/tags/steam/</link>
         <description>Recent content in Steam on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/steam/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/steam/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quest 3 on Arch</title>
-        <link>http://localhost:1313/p/quest-3-on-arch/</link>
+        <link>https://saipheblue.github.io/p/quest-3-on-arch/</link>
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/quest-3-on-arch/</guid>
-        <description>&lt;img src="http://localhost:1313/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/quest-3-on-arch/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
 &lt;h2 id=&#34;steamvr&#34;&gt;SteamVR
 &lt;/h2&gt;&lt;p&gt;SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
 It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve previously used your headset on Windows, you might encounter an issue with Steam Link on Linux. It displays the error:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&#39;Streaming VR is not available from that computer.&#39;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Due to this limitation, we need to use alternative software to pair with SteamVR.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1.png&#34;
 	width=&#34;1743&#34;
 	height=&#34;405&#34;
-	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/1_hu1533604363331417481.png 480w, http://localhost:1313/p/quest-3-on-arch/1_hu4519556953867718277.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1_hu1533604363331417481.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/1_hu4519556953867718277.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -54,10 +54,10 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;alvr-air-light-vr&#34;&gt;ALVR (Air Light VR)
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/2.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2.png&#34;
 	width=&#34;2549&#34;
 	height=&#34;492&#34;
-	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/2_hu474655151797802696.png 480w, http://localhost:1313/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2_hu474655151797802696.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -73,10 +73,10 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;li&gt;Install the APK on your headset using SideQuest.&lt;/li&gt;
 &lt;li&gt;Extract the &lt;code&gt;.tar&lt;/code&gt; file on your Arch Linux machine and run the executable.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1348&#34;
-	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/4_hu5291950623060969288.png 480w, http://localhost:1313/p/quest-3-on-arch/4_hu9895093760156796286.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4_hu5291950623060969288.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/4_hu9895093760156796286.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	

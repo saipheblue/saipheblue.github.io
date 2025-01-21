@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Script on Saitech</title>
-        <link>http://localhost:1313/tags/script/</link>
+        <link>https://saipheblue.github.io/tags/script/</link>
         <description>Recent content in Script on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/script/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/script/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quick Audio Management</title>
-        <link>http://localhost:1313/p/quick-audio-management/</link>
+        <link>https://saipheblue.github.io/p/quick-audio-management/</link>
         <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/quick-audio-management/</guid>
-        <description>&lt;img src="http://localhost:1313/p/quick-audio-management/1.png" alt="Featured image of post Quick Audio Management" /&gt;&lt;p&gt;I was looking for a Linux alternative to the Win + G shortcut in Windows, which opens the Xbox Game Bar. I used this feature for quickly and conveniently managing audio, but there was nothing similar on Linux. So, I created this script to fill the gap.&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/quick-audio-management/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/quick-audio-management/1.png" alt="Featured image of post Quick Audio Management" /&gt;&lt;p&gt;I was looking for a Linux alternative to the Win + G shortcut in Windows, which opens the Xbox Game Bar. I used this feature for quickly and conveniently managing audio, but there was nothing similar on Linux. So, I created this script to fill the gap.&lt;/p&gt;
 &lt;p&gt;This script was primarily created for the &lt;code&gt;bspwm&lt;/code&gt;  tiling window manager but might work with some tweaks on other window managers.&lt;/p&gt;
 &lt;h1 id=&#34;steps-to-use&#34;&gt;Steps to Use:
 &lt;/h1&gt;&lt;h2 id=&#34;keybind&#34;&gt;Keybind
@@ -158,10 +158,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;notify-send &lt;span class=&#34;s2&#34;&gt;&amp;#34;Set volume for &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$app_name&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt; to &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$new_volume&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;%&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-audio-management/3.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-audio-management/3.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1440&#34;
-	srcset=&#34;http://localhost:1313/p/quick-audio-management/3_hu17023162358256385198.png 480w, http://localhost:1313/p/quick-audio-management/3_hu4528551312027270016.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-audio-management/3_hu17023162358256385198.png 480w, https://saipheblue.github.io/p/quick-audio-management/3_hu4528551312027270016.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Select an application&#34;
@@ -171,10 +171,10 @@
 		data-flex-grow=&#34;177&#34;
 		data-flex-basis=&#34;426px&#34;
 	
-&gt;  &lt;img src=&#34;http://localhost:1313/p/quick-audio-management/4.png&#34;
+&gt;  &lt;img src=&#34;https://saipheblue.github.io/p/quick-audio-management/4.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1440&#34;
-	srcset=&#34;http://localhost:1313/p/quick-audio-management/4_hu18301564756014679328.png 480w, http://localhost:1313/p/quick-audio-management/4_hu10839425956350679733.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-audio-management/4_hu18301564756014679328.png 480w, https://saipheblue.github.io/p/quick-audio-management/4_hu10839425956350679733.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Adjust the volume during gameplay&#34;

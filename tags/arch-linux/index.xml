@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Arch Linux on Saitech</title>
-        <link>http://localhost:1313/tags/arch-linux/</link>
+        <link>https://saipheblue.github.io/tags/arch-linux/</link>
         <description>Recent content in Arch Linux on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quick Tools to Manage Space Usage</title>
-        <link>http://localhost:1313/p/quick-tools-to-manage-space-usage/</link>
+        <link>https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/</link>
         <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/quick-tools-to-manage-space-usage/</guid>
-        <description>&lt;img src="http://localhost:1313/p/quick-tools-to-manage-space-usage/1.png" alt="Featured image of post Quick Tools to Manage Space Usage" /&gt;&lt;p&gt;From time to time, you might need to free up disk space, but where do you start? How can you quickly locate those large files taking up valuable storage? Let’s explore some options. Spoiler alert: The first two are my top picks!&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1.png" alt="Featured image of post Quick Tools to Manage Space Usage" /&gt;&lt;p&gt;From time to time, you might need to free up disk space, but where do you start? How can you quickly locate those large files taking up valuable storage? Let’s explore some options. Spoiler alert: The first two are my top picks!&lt;/p&gt;
 &lt;h2 id=&#34;terminal&#34;&gt;Terminal
 &lt;/h2&gt;&lt;p&gt;Command to Locate Large Files&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -27,10 +27,10 @@
 &lt;p&gt;&lt;code&gt;-type f&lt;/code&gt;: Search for files only.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;-size +2000M&lt;/code&gt;: Files larger than 2000 MB.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;2&amp;gt;/dev/null&lt;/code&gt;: Suppress permission denied errors.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/2.png&#34;
 	width=&#34;917&#34;
 	height=&#34;91&#34;
-	srcset=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/2_hu10701350617267026225.png 480w, http://localhost:1313/p/quick-tools-to-manage-space-usage/2_hu2587874674620502713.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/2_hu10701350617267026225.png 480w, https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/2_hu2587874674620502713.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;find / -type f&#34;
@@ -61,10 +61,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Use arrow keys to navigate&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1.png&#34;
 	width=&#34;850&#34;
 	height=&#34;428&#34;
-	srcset=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/1_hu9621814770134710449.png 480w, http://localhost:1313/p/quick-tools-to-manage-space-usage/1_hu10812977999950512118.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1_hu9621814770134710449.png 480w, https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1_hu10812977999950512118.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;ncdu&#34;
@@ -85,10 +85,10 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S baobab
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/3.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/3.png&#34;
 	width=&#34;958&#34;
 	height=&#34;597&#34;
-	srcset=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/3_hu7429651440955637649.png 480w, http://localhost:1313/p/quick-tools-to-manage-space-usage/3_hu80810106691030792.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/3_hu7429651440955637649.png 480w, https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/3_hu80810106691030792.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;baobab&#34;
@@ -150,21 +150,21 @@
         </item>
         <item>
         <title>Quest 3 on Arch</title>
-        <link>http://localhost:1313/p/quest-3-on-arch/</link>
+        <link>https://saipheblue.github.io/p/quest-3-on-arch/</link>
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/quest-3-on-arch/</guid>
-        <description>&lt;img src="http://localhost:1313/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/quest-3-on-arch/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
 &lt;h2 id=&#34;steamvr&#34;&gt;SteamVR
 &lt;/h2&gt;&lt;p&gt;SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
 It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve previously used your headset on Windows, you might encounter an issue with Steam Link on Linux. It displays the error:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&#39;Streaming VR is not available from that computer.&#39;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Due to this limitation, we need to use alternative software to pair with SteamVR.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1.png&#34;
 	width=&#34;1743&#34;
 	height=&#34;405&#34;
-	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/1_hu1533604363331417481.png 480w, http://localhost:1313/p/quest-3-on-arch/1_hu4519556953867718277.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1_hu1533604363331417481.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/1_hu4519556953867718277.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -196,10 +196,10 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;alvr-air-light-vr&#34;&gt;ALVR (Air Light VR)
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/2.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2.png&#34;
 	width=&#34;2549&#34;
 	height=&#34;492&#34;
-	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/2_hu474655151797802696.png 480w, http://localhost:1313/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2_hu474655151797802696.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -215,10 +215,10 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;li&gt;Install the APK on your headset using SideQuest.&lt;/li&gt;
 &lt;li&gt;Extract the &lt;code&gt;.tar&lt;/code&gt; file on your Arch Linux machine and run the executable.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1348&#34;
-	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/4_hu5291950623060969288.png 480w, http://localhost:1313/p/quest-3-on-arch/4_hu9895093760156796286.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4_hu5291950623060969288.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/4_hu9895093760156796286.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -243,11 +243,11 @@ Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
         </item>
         <item>
         <title>Colorize and List IPs</title>
-        <link>http://localhost:1313/p/colorize-and-list-ips/</link>
+        <link>https://saipheblue.github.io/p/colorize-and-list-ips/</link>
         <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/colorize-and-list-ips/</guid>
-        <description>&lt;img src="http://localhost:1313/p/colorize-and-list-ips/1.png" alt="Featured image of post Colorize and List IPs" /&gt;&lt;p&gt;Did you know you can display all IP addresses and interfaces on Linux in a neatly formatted table for easier reading?&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/colorize-and-list-ips/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/colorize-and-list-ips/1.png" alt="Featured image of post Colorize and List IPs" /&gt;&lt;p&gt;Did you know you can display all IP addresses and interfaces on Linux in a neatly formatted table for easier reading?&lt;/p&gt;
 &lt;p&gt;The syntax is:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -265,11 +265,11 @@ Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
         </item>
         <item>
         <title>YT-X</title>
-        <link>http://localhost:1313/p/yt-x/</link>
+        <link>https://saipheblue.github.io/p/yt-x/</link>
         <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/yt-x/</guid>
-        <description>&lt;img src="http://localhost:1313/p/yt-x/2024-12-19_01-32.png" alt="Featured image of post YT-X" /&gt;&lt;p&gt;What else is there to say? You can easily browse YouTube videos right from the terminal&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/yt-x/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/yt-x/2024-12-19_01-32.png" alt="Featured image of post YT-X" /&gt;&lt;p&gt;What else is there to say? You can easily browse YouTube videos right from the terminal&lt;/p&gt;
 &lt;h2 id=&#34;source&#34;&gt;Source
 &lt;/h2&gt;&lt;p&gt;Get it from &lt;a class=&#34;link&#34; href=&#34;https://github.com/Benexl/yt-x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;this&lt;/a&gt; repo made by Benexl&lt;/p&gt;

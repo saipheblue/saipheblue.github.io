@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Terminal on Saitech</title>
-        <link>http://localhost:1313/tags/terminal/</link>
+        <link>https://saipheblue.github.io/tags/terminal/</link>
         <description>Recent content in Terminal on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/terminal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quick Tools to Manage Space Usage</title>
-        <link>http://localhost:1313/p/quick-tools-to-manage-space-usage/</link>
+        <link>https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/</link>
         <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/quick-tools-to-manage-space-usage/</guid>
-        <description>&lt;img src="http://localhost:1313/p/quick-tools-to-manage-space-usage/1.png" alt="Featured image of post Quick Tools to Manage Space Usage" /&gt;&lt;p&gt;From time to time, you might need to free up disk space, but where do you start? How can you quickly locate those large files taking up valuable storage? Let’s explore some options. Spoiler alert: The first two are my top picks!&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1.png" alt="Featured image of post Quick Tools to Manage Space Usage" /&gt;&lt;p&gt;From time to time, you might need to free up disk space, but where do you start? How can you quickly locate those large files taking up valuable storage? Let’s explore some options. Spoiler alert: The first two are my top picks!&lt;/p&gt;
 &lt;h2 id=&#34;terminal&#34;&gt;Terminal
 &lt;/h2&gt;&lt;p&gt;Command to Locate Large Files&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -27,10 +27,10 @@
 &lt;p&gt;&lt;code&gt;-type f&lt;/code&gt;: Search for files only.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;-size +2000M&lt;/code&gt;: Files larger than 2000 MB.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;2&amp;gt;/dev/null&lt;/code&gt;: Suppress permission denied errors.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/2.png&#34;
 	width=&#34;917&#34;
 	height=&#34;91&#34;
-	srcset=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/2_hu10701350617267026225.png 480w, http://localhost:1313/p/quick-tools-to-manage-space-usage/2_hu2587874674620502713.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/2_hu10701350617267026225.png 480w, https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/2_hu2587874674620502713.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;find / -type f&#34;
@@ -61,10 +61,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Use arrow keys to navigate&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1.png&#34;
 	width=&#34;850&#34;
 	height=&#34;428&#34;
-	srcset=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/1_hu9621814770134710449.png 480w, http://localhost:1313/p/quick-tools-to-manage-space-usage/1_hu10812977999950512118.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1_hu9621814770134710449.png 480w, https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/1_hu10812977999950512118.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;ncdu&#34;
@@ -85,10 +85,10 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S baobab
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/3.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/3.png&#34;
 	width=&#34;958&#34;
 	height=&#34;597&#34;
-	srcset=&#34;http://localhost:1313/p/quick-tools-to-manage-space-usage/3_hu7429651440955637649.png 480w, http://localhost:1313/p/quick-tools-to-manage-space-usage/3_hu80810106691030792.png 1024w&#34;
+	srcset=&#34;https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/3_hu7429651440955637649.png 480w, https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/3_hu80810106691030792.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;baobab&#34;
@@ -150,11 +150,11 @@
         </item>
         <item>
         <title>Colorize and List IPs</title>
-        <link>http://localhost:1313/p/colorize-and-list-ips/</link>
+        <link>https://saipheblue.github.io/p/colorize-and-list-ips/</link>
         <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/colorize-and-list-ips/</guid>
-        <description>&lt;img src="http://localhost:1313/p/colorize-and-list-ips/1.png" alt="Featured image of post Colorize and List IPs" /&gt;&lt;p&gt;Did you know you can display all IP addresses and interfaces on Linux in a neatly formatted table for easier reading?&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/colorize-and-list-ips/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/colorize-and-list-ips/1.png" alt="Featured image of post Colorize and List IPs" /&gt;&lt;p&gt;Did you know you can display all IP addresses and interfaces on Linux in a neatly formatted table for easier reading?&lt;/p&gt;
 &lt;p&gt;The syntax is:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -172,11 +172,11 @@
         </item>
         <item>
         <title>YT-X</title>
-        <link>http://localhost:1313/p/yt-x/</link>
+        <link>https://saipheblue.github.io/p/yt-x/</link>
         <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/yt-x/</guid>
-        <description>&lt;img src="http://localhost:1313/p/yt-x/2024-12-19_01-32.png" alt="Featured image of post YT-X" /&gt;&lt;p&gt;What else is there to say? You can easily browse YouTube videos right from the terminal&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/yt-x/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/yt-x/2024-12-19_01-32.png" alt="Featured image of post YT-X" /&gt;&lt;p&gt;What else is there to say? You can easily browse YouTube videos right from the terminal&lt;/p&gt;
 &lt;h2 id=&#34;source&#34;&gt;Source
 &lt;/h2&gt;&lt;p&gt;Get it from &lt;a class=&#34;link&#34; href=&#34;https://github.com/Benexl/yt-x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;this&lt;/a&gt; repo made by Benexl&lt;/p&gt;

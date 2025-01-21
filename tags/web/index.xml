@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Web on Saitech</title>
-        <link>http://localhost:1313/tags/web/</link>
+        <link>https://saipheblue.github.io/tags/web/</link>
         <description>Recent content in Web on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>ToS;DR</title>
-        <link>http://localhost:1313/p/tosdr/</link>
+        <link>https://saipheblue.github.io/p/tosdr/</link>
         <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/tosdr/</guid>
-        <description>&lt;img src="http://localhost:1313/p/tosdr/1.png" alt="Featured image of post ToS;DR" /&gt;&lt;p&gt;I came across a great website where, by entering a service like Facebook or Google, it provides a brief and clear overview of the Terms of Service (ToS) in bullet points for that specific page and rates it based on how user-friendly it is for the end user.&lt;/p&gt;
+        <guid>https://saipheblue.github.io/p/tosdr/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/tosdr/1.png" alt="Featured image of post ToS;DR" /&gt;&lt;p&gt;I came across a great website where, by entering a service like Facebook or Google, it provides a brief and clear overview of the Terms of Service (ToS) in bullet points for that specific page and rates it based on how user-friendly it is for the end user.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tosdr.org/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://tosdr.org/en/&lt;/a&gt;&lt;/p&gt;
 </description>
