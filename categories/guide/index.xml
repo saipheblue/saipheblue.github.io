@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Guide on Saitech</title>
-        <link>https://saipheblue.github.io/categories/guide/</link>
+        <link>http://localhost:1313/categories/guide/</link>
         <description>Recent content in Guide on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/guide/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/guide/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quick Audio Management</title>
-        <link>https://saipheblue.github.io/p/quick-audio-management/</link>
+        <link>http://localhost:1313/p/quick-audio-management/</link>
         <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/p/quick-audio-management/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/quick-audio-management/1.png" alt="Featured image of post Quick Audio Management" /&gt;&lt;p&gt;I was looking for a Linux alternative to the Win + G shortcut in Windows, which opens the Xbox Game Bar. I used this feature for quickly and conveniently managing audio, but there was nothing similar on Linux. So, I created this script to fill the gap.&lt;/p&gt;
+        <guid>http://localhost:1313/p/quick-audio-management/</guid>
+        <description>&lt;img src="http://localhost:1313/p/quick-audio-management/1.png" alt="Featured image of post Quick Audio Management" /&gt;&lt;p&gt;I was looking for a Linux alternative to the Win + G shortcut in Windows, which opens the Xbox Game Bar. I used this feature for quickly and conveniently managing audio, but there was nothing similar on Linux. So, I created this script to fill the gap.&lt;/p&gt;
 &lt;p&gt;This script was primarily created for the &lt;code&gt;bspwm&lt;/code&gt;  tiling window manager but might work with some tweaks on other window managers.&lt;/p&gt;
 &lt;h1 id=&#34;steps-to-use&#34;&gt;Steps to Use:
 &lt;/h1&gt;&lt;h2 id=&#34;keybind&#34;&gt;Keybind
@@ -158,10 +158,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;notify-send &lt;span class=&#34;s2&#34;&gt;&amp;#34;Set volume for &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$app_name&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt; to &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$new_volume&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;%&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quick-audio-management/3.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quick-audio-management/3.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1440&#34;
-	srcset=&#34;https://saipheblue.github.io/p/quick-audio-management/3_hu17023162358256385198.png 480w, https://saipheblue.github.io/p/quick-audio-management/3_hu4528551312027270016.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/quick-audio-management/3_hu17023162358256385198.png 480w, http://localhost:1313/p/quick-audio-management/3_hu4528551312027270016.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Select an application&#34;
@@ -171,10 +171,10 @@
 		data-flex-grow=&#34;177&#34;
 		data-flex-basis=&#34;426px&#34;
 	
-&gt;  &lt;img src=&#34;https://saipheblue.github.io/p/quick-audio-management/4.png&#34;
+&gt;  &lt;img src=&#34;http://localhost:1313/p/quick-audio-management/4.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1440&#34;
-	srcset=&#34;https://saipheblue.github.io/p/quick-audio-management/4_hu18301564756014679328.png 480w, https://saipheblue.github.io/p/quick-audio-management/4_hu10839425956350679733.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/quick-audio-management/4_hu18301564756014679328.png 480w, http://localhost:1313/p/quick-audio-management/4_hu10839425956350679733.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Adjust the volume during gameplay&#34;
@@ -189,21 +189,21 @@
         </item>
         <item>
         <title>Quest 3 on Arch</title>
-        <link>https://saipheblue.github.io/p/quest-3-on-arch/</link>
+        <link>http://localhost:1313/p/quest-3-on-arch/</link>
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/p/quest-3-on-arch/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
+        <guid>http://localhost:1313/p/quest-3-on-arch/</guid>
+        <description>&lt;img src="http://localhost:1313/p/quest-3-on-arch/3.jpg" alt="Featured image of post Quest 3 on Arch" /&gt;&lt;p&gt;There are plenty of guides online on how to set everything up on Windows, but not so many for Arch Linux or Linux in general.&lt;/p&gt;
 &lt;h2 id=&#34;steamvr&#34;&gt;SteamVR
 &lt;/h2&gt;&lt;p&gt;SteamVR is the backbone of PC VR gaming, supporting a wide range of headsets and offering access to countless VR titles.
 It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve previously used your headset on Windows, you might encounter an issue with Steam Link on Linux. It displays the error:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&#39;Streaming VR is not available from that computer.&#39;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Due to this limitation, we need to use alternative software to pair with SteamVR.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/1.png&#34;
 	width=&#34;1743&#34;
 	height=&#34;405&#34;
-	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/1_hu1533604363331417481.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/1_hu4519556953867718277.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/1_hu1533604363331417481.png 480w, http://localhost:1313/p/quest-3-on-arch/1_hu4519556953867718277.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -235,10 +235,10 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;alvr-air-light-vr&#34;&gt;ALVR (Air Light VR)
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/2.png&#34;
 	width=&#34;2549&#34;
 	height=&#34;492&#34;
-	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/2_hu474655151797802696.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/2_hu474655151797802696.png 480w, http://localhost:1313/p/quest-3-on-arch/2_hu6650122288950677746.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -254,10 +254,10 @@ It is part of your Steam library—just download and run it.&lt;/p&gt;
 &lt;li&gt;Install the APK on your headset using SideQuest.&lt;/li&gt;
 &lt;li&gt;Extract the &lt;code&gt;.tar&lt;/code&gt; file on your Arch Linux machine and run the executable.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/quest-3-on-arch/4.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1348&#34;
-	srcset=&#34;https://saipheblue.github.io/p/quest-3-on-arch/4_hu5291950623060969288.png 480w, https://saipheblue.github.io/p/quest-3-on-arch/4_hu9895093760156796286.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/quest-3-on-arch/4_hu5291950623060969288.png 480w, http://localhost:1313/p/quest-3-on-arch/4_hu9895093760156796286.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -282,14 +282,14 @@ Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
         </item>
         <item>
         <title>DIY Geiger counter</title>
-        <link>https://saipheblue.github.io/p/diy-geiger-counter/</link>
+        <link>http://localhost:1313/p/diy-geiger-counter/</link>
         <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/p/diy-geiger-counter/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/diy-geiger-counter/5.jpg" alt="Featured image of post DIY Geiger counter" /&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/diy-geiger-counter/2.png&#34;
+        <guid>http://localhost:1313/p/diy-geiger-counter/</guid>
+        <description>&lt;img src="http://localhost:1313/p/diy-geiger-counter/5.jpg" alt="Featured image of post DIY Geiger counter" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/diy-geiger-counter/2.png&#34;
 	width=&#34;1911&#34;
 	height=&#34;1086&#34;
-	srcset=&#34;https://saipheblue.github.io/p/diy-geiger-counter/2_hu5362382509408535200.png 480w, https://saipheblue.github.io/p/diy-geiger-counter/2_hu8486877396199715324.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/diy-geiger-counter/2_hu5362382509408535200.png 480w, http://localhost:1313/p/diy-geiger-counter/2_hu8486877396199715324.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -297,10 +297,10 @@ Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
 		data-flex-grow=&#34;175&#34;
 		data-flex-basis=&#34;422px&#34;
 	
-&gt;&lt;img src=&#34;https://saipheblue.github.io/p/diy-geiger-counter/1.jpg&#34;
+&gt;&lt;img src=&#34;http://localhost:1313/p/diy-geiger-counter/1.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://saipheblue.github.io/p/diy-geiger-counter/1_hu11219505733991928216.jpg 480w, https://saipheblue.github.io/p/diy-geiger-counter/1_hu4261674103906523970.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/diy-geiger-counter/1_hu11219505733991928216.jpg 480w, http://localhost:1313/p/diy-geiger-counter/1_hu4261674103906523970.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -318,10 +318,10 @@ Add the following command to SteamVR&amp;rsquo;s launch options:&lt;/p&gt;
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware
 &lt;/h2&gt;&lt;p&gt;Connect 5V to any 5V, Ground to any ground and VIN to GPIO4 (pin 7)&lt;/p&gt;
 &lt;h3 id=&#34;rpi5-gpio-diagram&#34;&gt;Rpi5 GPIO diagram
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/diy-geiger-counter/4.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/diy-geiger-counter/4.png&#34;
 	width=&#34;2165&#34;
 	height=&#34;1247&#34;
-	srcset=&#34;https://saipheblue.github.io/p/diy-geiger-counter/4_hu14689943616109472642.png 480w, https://saipheblue.github.io/p/diy-geiger-counter/4_hu17050551416226961946.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/diy-geiger-counter/4_hu14689943616109472642.png 480w, http://localhost:1313/p/diy-geiger-counter/4_hu17050551416226961946.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	

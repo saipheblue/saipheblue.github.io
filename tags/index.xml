@@ -2,368 +2,376 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Saitech</title>
-        <link>https://saipheblue.github.io/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Abandoned Worlds</title>
-        <link>https://saipheblue.github.io/tags/abandoned-worlds/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/abandoned-worlds/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Amanita Design</title>
-        <link>https://saipheblue.github.io/tags/amanita-design/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/amanita-design/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Atmospheric Games</title>
-        <link>https://saipheblue.github.io/tags/atmospheric-games/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/atmospheric-games/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Babbdi</title>
-        <link>https://saipheblue.github.io/tags/babbdi/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/babbdi/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Blame! Manga</title>
-        <link>https://saipheblue.github.io/tags/blame-manga/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/blame-manga/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Dying Worlds</title>
-        <link>https://saipheblue.github.io/tags/dying-worlds/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/dying-worlds/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Exploration Games</title>
-        <link>https://saipheblue.github.io/tags/exploration-games/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/exploration-games/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Free</title>
-        <link>https://saipheblue.github.io/tags/free/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/free/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Game</title>
-        <link>https://saipheblue.github.io/tags/game/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/game/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Indie</title>
-        <link>https://saipheblue.github.io/tags/indie/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/indie/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Itch.io</title>
-        <link>https://saipheblue.github.io/tags/itch.io/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/itch.io/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Liminal Space</title>
-        <link>https://saipheblue.github.io/tags/liminal-space/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/liminal-space/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tsutomu Nihei</title>
-        <link>https://saipheblue.github.io/tags/tsutomu-nihei/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/tsutomu-nihei/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Uncanny Valley</title>
-        <link>https://saipheblue.github.io/tags/uncanny-valley/</link>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/uncanny-valley/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Privacy</title>
-        <link>https://saipheblue.github.io/tags/privacy/</link>
-        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/privacy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Security</title>
-        <link>https://saipheblue.github.io/tags/security/</link>
-        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/security/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Site</title>
-        <link>https://saipheblue.github.io/tags/site/</link>
-        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/site/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tools</title>
-        <link>https://saipheblue.github.io/tags/tools/</link>
-        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/tools/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>ToS</title>
-        <link>https://saipheblue.github.io/tags/tos/</link>
-        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/tos/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Web</title>
-        <link>https://saipheblue.github.io/tags/web/</link>
-        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/web/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Audio</title>
-        <link>https://saipheblue.github.io/tags/audio/</link>
-        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/audio/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Bspwm</title>
-        <link>https://saipheblue.github.io/tags/bspwm/</link>
-        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/bspwm/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Script</title>
-        <link>https://saipheblue.github.io/tags/script/</link>
-        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/script/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Software</title>
-        <link>https://saipheblue.github.io/tags/software/</link>
-        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/software/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tweaks</title>
-        <link>https://saipheblue.github.io/tags/tweaks/</link>
-        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/tweaks/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>ALVR</title>
-        <link>https://saipheblue.github.io/tags/alvr/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/alvr/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Arch Linux</title>
-        <link>https://saipheblue.github.io/tags/arch-linux/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:1313/tags/arch-linux/</link>
+        <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/tags/arch-linux/</guid>
+        <guid>http://localhost:1313/tags/arch-linux/</guid>
         <description></description>
         </item>
         <item>
-        <title>Meta</title>
-        <link>https://saipheblue.github.io/tags/meta/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        <title>Space Management</title>
+        <link>http://localhost:1313/tags/space-management/</link>
+        <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/tags/meta/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Oculus</title>
-        <link>https://saipheblue.github.io/tags/oculus/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/oculus/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Quest 3</title>
-        <link>https://saipheblue.github.io/tags/quest-3/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/quest-3/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>SideQuest</title>
-        <link>https://saipheblue.github.io/tags/sidequest/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/sidequest/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Steam</title>
-        <link>https://saipheblue.github.io/tags/steam/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/steam/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>SteamVR</title>
-        <link>https://saipheblue.github.io/tags/steamvr/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/steamvr/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>VR</title>
-        <link>https://saipheblue.github.io/tags/vr/</link>
-        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/vr/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>DIY</title>
-        <link>https://saipheblue.github.io/tags/diy/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/diy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Flask</title>
-        <link>https://saipheblue.github.io/tags/flask/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/flask/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Geiger–Müller</title>
-        <link>https://saipheblue.github.io/tags/geigerm%C3%BCller/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/geigerm%C3%BCller/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Github</title>
-        <link>https://saipheblue.github.io/tags/github/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/github/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Hugo</title>
-        <link>https://saipheblue.github.io/tags/hugo/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/hugo/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Python</title>
-        <link>https://saipheblue.github.io/tags/python/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/python/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Radiation</title>
-        <link>https://saipheblue.github.io/tags/radiation/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/radiation/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Raspberry</title>
-        <link>https://saipheblue.github.io/tags/raspberry/</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/raspberry/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Networking</title>
-        <link>https://saipheblue.github.io/tags/networking/</link>
-        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/networking/</guid>
+        <guid>http://localhost:1313/tags/space-management/</guid>
         <description></description>
         </item>
         <item>
         <title>Terminal</title>
-        <link>https://saipheblue.github.io/tags/terminal/</link>
+        <link>http://localhost:1313/tags/terminal/</link>
+        <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/terminal/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tweaks</title>
+        <link>http://localhost:1313/tags/tweaks/</link>
+        <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/tweaks/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Abandoned Worlds</title>
+        <link>http://localhost:1313/tags/abandoned-worlds/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/abandoned-worlds/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Amanita Design</title>
+        <link>http://localhost:1313/tags/amanita-design/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/amanita-design/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Atmospheric Games</title>
+        <link>http://localhost:1313/tags/atmospheric-games/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/atmospheric-games/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Babbdi</title>
+        <link>http://localhost:1313/tags/babbdi/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/babbdi/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Blame! Manga</title>
+        <link>http://localhost:1313/tags/blame-manga/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/blame-manga/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Dying Worlds</title>
+        <link>http://localhost:1313/tags/dying-worlds/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/dying-worlds/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Exploration Games</title>
+        <link>http://localhost:1313/tags/exploration-games/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/exploration-games/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Free</title>
+        <link>http://localhost:1313/tags/free/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/free/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Game</title>
+        <link>http://localhost:1313/tags/game/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/game/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Indie</title>
+        <link>http://localhost:1313/tags/indie/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/indie/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Itch.io</title>
+        <link>http://localhost:1313/tags/itch.io/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/itch.io/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Liminal Space</title>
+        <link>http://localhost:1313/tags/liminal-space/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/liminal-space/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tsutomu Nihei</title>
+        <link>http://localhost:1313/tags/tsutomu-nihei/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/tsutomu-nihei/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Uncanny Valley</title>
+        <link>http://localhost:1313/tags/uncanny-valley/</link>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/uncanny-valley/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Privacy</title>
+        <link>http://localhost:1313/tags/privacy/</link>
+        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/privacy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Security</title>
+        <link>http://localhost:1313/tags/security/</link>
+        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/security/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Site</title>
+        <link>http://localhost:1313/tags/site/</link>
+        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/site/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tools</title>
+        <link>http://localhost:1313/tags/tools/</link>
+        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/tools/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ToS</title>
+        <link>http://localhost:1313/tags/tos/</link>
+        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/tos/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Web</title>
+        <link>http://localhost:1313/tags/web/</link>
+        <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/web/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Audio</title>
+        <link>http://localhost:1313/tags/audio/</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/audio/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Bspwm</title>
+        <link>http://localhost:1313/tags/bspwm/</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/bspwm/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Script</title>
+        <link>http://localhost:1313/tags/script/</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/script/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Software</title>
+        <link>http://localhost:1313/tags/software/</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/software/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ALVR</title>
+        <link>http://localhost:1313/tags/alvr/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/alvr/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Meta</title>
+        <link>http://localhost:1313/tags/meta/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/meta/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Oculus</title>
+        <link>http://localhost:1313/tags/oculus/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/oculus/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Quest 3</title>
+        <link>http://localhost:1313/tags/quest-3/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/quest-3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SideQuest</title>
+        <link>http://localhost:1313/tags/sidequest/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/sidequest/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Steam</title>
+        <link>http://localhost:1313/tags/steam/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/steam/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SteamVR</title>
+        <link>http://localhost:1313/tags/steamvr/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/steamvr/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VR</title>
+        <link>http://localhost:1313/tags/vr/</link>
+        <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/vr/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DIY</title>
+        <link>http://localhost:1313/tags/diy/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/diy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Flask</title>
+        <link>http://localhost:1313/tags/flask/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/flask/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Geiger–Müller</title>
+        <link>http://localhost:1313/tags/geigerm%C3%BCller/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/geigerm%C3%BCller/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Github</title>
+        <link>http://localhost:1313/tags/github/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/github/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hugo</title>
+        <link>http://localhost:1313/tags/hugo/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Python</title>
+        <link>http://localhost:1313/tags/python/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/python/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Radiation</title>
+        <link>http://localhost:1313/tags/radiation/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/radiation/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Raspberry</title>
+        <link>http://localhost:1313/tags/raspberry/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/raspberry/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Networking</title>
+        <link>http://localhost:1313/tags/networking/</link>
         <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/tags/terminal/</guid>
+        <guid>http://localhost:1313/tags/networking/</guid>
         <description></description>
         </item>
         <item>
         <title>Youtube</title>
-        <link>https://saipheblue.github.io/tags/youtube/</link>
+        <link>http://localhost:1313/tags/youtube/</link>
         <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://saipheblue.github.io/tags/youtube/</guid>
+        <guid>http://localhost:1313/tags/youtube/</guid>
         <description></description>
         </item>
         
