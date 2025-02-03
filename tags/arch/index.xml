@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Arch on Saitech</title>
+        <link>http://localhost:1313/tags/arch/</link>
+        <description>Recent content in Arch on Saitech</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/arch/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gamemode</title>
+        <link>http://localhost:1313/p/gamemode/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/gamemode/</guid>
+        <description>&lt;img src="http://localhost:1313/.png" alt="Featured image of post Gamemode" /&gt;&lt;h2 id=&#34;emoji-combiner&#34;&gt;Emoji Combiner
+&lt;/h2&gt;&lt;p&gt;When I want to create custom emoji faces, I’ll know where to go.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://emojicombiner.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Emoji Combiner&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;infinite-craft&#34;&gt;Infinite Craft
+&lt;/h2&gt;&lt;p&gt;Speaking of combining two things into one, Infinite Craft has stolen a few hours of my life, and I don’t regret it. It’s a fun experience—try creating something like a sharknado and see how long it takes you.&lt;/p&gt;
+&lt;p&gt;Sharknado is pretty simple, &lt;em&gt;wink wink&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://neal.fun/infinite-craft/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Infinite Craft&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

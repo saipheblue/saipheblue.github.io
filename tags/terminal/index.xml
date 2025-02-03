@@ -6,7 +6,102 @@
         <description>Recent content in Terminal on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gamemode</title>
+        <link>https://saipheblue.github.io/p/gamemode/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/gamemode/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/gamemode/1.png" alt="Featured image of post Gamemode" /&gt;&lt;h2 id=&#34;what-is-gamemode&#34;&gt;What is gamemode?
+&lt;/h2&gt;&lt;p&gt;The command &lt;code&gt;gamemoderun %command%&lt;/code&gt; is used on Linux to run a game or application with GameMode, a tool designed to optimize your system for gaming. It tweaks settings like the CPU governor, I/O priority, and more to give your games a performance boost.&lt;/p&gt;
+&lt;h2 id=&#34;how-it-works&#34;&gt;How It Works:
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;gamemoderun&lt;/code&gt;: This is the command that activates GameMode.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;%command%&lt;/code&gt;: This is a placeholder for the actual command used to launch your game or app. It’s commonly used in Steam’s launch options.&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;p&gt;If you’re running a game through Steam, you might add the following to the game’s launch options:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gamemoderun %command%&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This ensures the game runs with GameMode optimizations.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation:
+&lt;/h2&gt;&lt;p&gt;If you don’t have GameMode installed, you can install it on Arch Linux using:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S gamemode
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;To check if GameMode is active, run:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gamemoded -s
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;This will show whether GameMode is running.&lt;/p&gt;
+&lt;h2 id=&#34;what-does-gamemode-optimize&#34;&gt;What Does GameMode Optimize?
+&lt;/h2&gt;&lt;p&gt;GameMode can tweak a variety of settings to improve gaming performance, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CPU Governor:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Locks your CPU at top speed for better performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I/O Priority:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gives your game priority access to your disk, reducing stuttering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Process Niceness:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Makes sure your game gets more attention from the CPU.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kernel Scheduler:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adjusts how tasks are handled to keep your game running smoothly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Screensaver Inhibiting:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stops your screensaver from interrupting your game.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GPU Performance Mode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimizes your GPU for gaming (supports NVIDIA and AMD, plus overclocking for NVIDIA).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CPU Core Management:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pins or parks CPU cores to improve performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Custom Scripts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lets you add your own tweaks for even more control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;availability&#34;&gt;Availability
+&lt;/h2&gt;&lt;p&gt;Gamemode packages are available for Ubuntu, Debian, Solus, Arch, Gentoo, Fedora, OpenSUSE, Mageia and possibly more.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-it&#34;&gt;Is It Worth It?
+&lt;/h2&gt;&lt;p&gt;While not all games will see a huge improvement, GameMode is a simple and effective way to squeeze out extra performance. If you’re a Linux gamer, it’s definitely worth a try!&lt;/p&gt;
+&lt;p&gt;For more details, check out the &lt;a class=&#34;link&#34; href=&#34;https://github.com/FeralInteractive/gamemode&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github repository&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Quick Tools to Manage Space Usage</title>
         <link>https://saipheblue.github.io/p/quick-tools-to-manage-space-usage/</link>
         <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
