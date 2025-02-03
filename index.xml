@@ -14,14 +14,26 @@
         <guid>https://saipheblue.github.io/p/gamemode/</guid>
         <description>&lt;img src="https://saipheblue.github.io/p/gamemode/1.png" alt="Featured image of post Gamemode" /&gt;&lt;h2 id=&#34;what-is-gamemode&#34;&gt;What is gamemode?
 &lt;/h2&gt;&lt;p&gt;The command &lt;code&gt;gamemoderun %command%&lt;/code&gt; is used on Linux to run a game or application with Gamemode, a tool designed to optimize your system for gaming. It tweaks settings like the CPU governor, I/O priority, and more to give your games a performance boost.&lt;/p&gt;
-&lt;h2 id=&#34;how-it-works&#34;&gt;How It Works:
+&lt;h2 id=&#34;how-it-works&#34;&gt;How It Works
 &lt;/h2&gt;&lt;p&gt;&lt;code&gt;gamemoderun&lt;/code&gt;: This is the command that activates Gamemode.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;%command%&lt;/code&gt;: This is a placeholder for the actual command used to launch your game or app. It’s commonly used in Steam’s launch options.&lt;/p&gt;
 &lt;p&gt;Example:&lt;/p&gt;
 &lt;p&gt;If you’re running a game through Steam, you might add the following to the game’s launch options:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;gamemoderun %command%&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;This ensures the game runs with Gamemode optimizations.&lt;/p&gt;
-&lt;h2 id=&#34;installation&#34;&gt;Installation:
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/gamemode/2.png&#34;
+	width=&#34;523&#34;
+	height=&#34;133&#34;
+	srcset=&#34;https://saipheblue.github.io/p/gamemode/2_hu_1470256ba24ccd4d.png 480w, https://saipheblue.github.io/p/gamemode/2_hu_572189de217f4edf.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;393&#34;
+		data-flex-basis=&#34;943px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation
 &lt;/h2&gt;&lt;p&gt;If you don’t have Gamemode installed, you can install it on Arch Linux using:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
