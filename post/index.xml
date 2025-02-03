@@ -13,16 +13,16 @@
         
         <guid>https://saipheblue.github.io/p/gamemode/</guid>
         <description>&lt;img src="https://saipheblue.github.io/p/gamemode/1.png" alt="Featured image of post Gamemode" /&gt;&lt;h2 id=&#34;what-is-gamemode&#34;&gt;What is gamemode?
-&lt;/h2&gt;&lt;p&gt;The command &lt;code&gt;gamemoderun %command%&lt;/code&gt; is used on Linux to run a game or application with GameMode, a tool designed to optimize your system for gaming. It tweaks settings like the CPU governor, I/O priority, and more to give your games a performance boost.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;The command &lt;code&gt;gamemoderun %command%&lt;/code&gt; is used on Linux to run a game or application with Gamemode, a tool designed to optimize your system for gaming. It tweaks settings like the CPU governor, I/O priority, and more to give your games a performance boost.&lt;/p&gt;
 &lt;h2 id=&#34;how-it-works&#34;&gt;How It Works:
-&lt;/h2&gt;&lt;p&gt;&lt;code&gt;gamemoderun&lt;/code&gt;: This is the command that activates GameMode.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;gamemoderun&lt;/code&gt;: This is the command that activates Gamemode.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;%command%&lt;/code&gt;: This is a placeholder for the actual command used to launch your game or app. It’s commonly used in Steam’s launch options.&lt;/p&gt;
 &lt;p&gt;Example:&lt;/p&gt;
 &lt;p&gt;If you’re running a game through Steam, you might add the following to the game’s launch options:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;gamemoderun %command%&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;This ensures the game runs with GameMode optimizations.&lt;/p&gt;
+&lt;p&gt;This ensures the game runs with Gamemode optimizations.&lt;/p&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation:
-&lt;/h2&gt;&lt;p&gt;If you don’t have GameMode installed, you can install it on Arch Linux using:&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;If you don’t have Gamemode installed, you can install it on Arch Linux using:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -31,7 +31,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S gamemode
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;To check if GameMode is active, run:&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;To check if Gamemode is active, run:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -40,9 +40,9 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gamemoded -s
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;This will show whether GameMode is running.&lt;/p&gt;
-&lt;h2 id=&#34;what-does-gamemode-optimize&#34;&gt;What Does GameMode Optimize?
-&lt;/h2&gt;&lt;p&gt;GameMode can tweak a variety of settings to improve gaming performance, including:&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;This will show whether Gamemode is running.&lt;/p&gt;
+&lt;h2 id=&#34;what-does-gamemode-optimize&#34;&gt;What Does Gamemode Optimize?
+&lt;/h2&gt;&lt;p&gt;Gamemode can tweak a variety of settings to improve gaming performance, including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;CPU Governor:&lt;/p&gt;
@@ -96,7 +96,7 @@
 &lt;h2 id=&#34;availability&#34;&gt;Availability
 &lt;/h2&gt;&lt;p&gt;Gamemode packages are available for Ubuntu, Debian, Solus, Arch, Gentoo, Fedora, OpenSUSE, Mageia and possibly more.&lt;/p&gt;
 &lt;h2 id=&#34;is-it-worth-it&#34;&gt;Is It Worth It?
-&lt;/h2&gt;&lt;p&gt;While not all games will see a huge improvement, GameMode is a simple and effective way to squeeze out extra performance. If you’re a Linux gamer, it’s definitely worth a try!&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;While not all games will see a huge improvement, Gamemode is a simple and effective way to squeeze out extra performance. If you’re a Linux gamer, it’s definitely worth a try!&lt;/p&gt;
 &lt;p&gt;For more details, check out the &lt;a class=&#34;link&#34; href=&#34;https://github.com/FeralInteractive/gamemode&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Github repository&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -296,8 +296,7 @@
         <guid>https://saipheblue.github.io/p/liminal-space/</guid>
         <description>&lt;img src="https://saipheblue.github.io/p/liminal-space/title.jpg" alt="Featured image of post Liminal Space" /&gt;&lt;blockquote&gt;
 &lt;p&gt;Disclaimer:
-This post was created with the help of an LLM ( also incorrectly referred to as AI ), mostly for grammar correction. Most of the generated &amp;ldquo;translation&amp;rdquo; is based on my own text, wiki entries, or official game descriptions.&lt;/p&gt;
-&lt;/blockquote&gt;
+This post was created with the help of an LLM ( also incorrectly referred to as AI ), mostly for grammar correction. Most of the generated &amp;ldquo;translation&amp;rdquo; is based on my own text, wiki entries, or official game descriptions.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;There’s something both haunting and captivating about wandering through abandoned video game worlds. The concrete jungles, where rusted steel beams entwine crumbling concrete panels like skeletal vines, feel like places you’ve visited in fleeting dreams or glimpsed at the edges of your memory, though you know you never truly have. They exert a peculiar pull, a delicate tension between familiarity and unease.&lt;/p&gt;
 &lt;p&gt;I think I’ve finally pinpointed why these spaces fascinate me so deeply. It’s the uncanny valley—not in the usual sense of lifelike robots or hyperrealistic characters, but in how these places mimic the real world while feeling subtly&amp;hellip; wrong. This ties closely to the concept of liminal spaces—those eerie transitional zones frozen in time, evoking an almost otherworldly stillness.&lt;/p&gt;
@@ -307,8 +306,7 @@ This post was created with the help of an LLM ( also incorrectly referred to as 
 &lt;/h2&gt;&lt;p&gt;Take &lt;b&gt;&lt;a class=&#34;link&#34; href=&#34;https://lemaitre-bros.itch.io/babbdi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Babbdi&lt;/a&gt;&lt;/b&gt;, for example. This short exploration game completely captured my imagination. Its description is simple:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;BABBDI is a short, first-person exploration experience with light narrative and platforming elements.   Visit the town of BABBDI, a forsaken district in the outer ring of the megalopolis. Meet its inhabitants and discover how to escape.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;BABBDI is a short, first-person exploration experience with light narrative and platforming elements.   Visit the town of BABBDI, a forsaken district in the outer ring of the megalopolis. Meet its inhabitants and discover how to escape.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;But this doesn’t tell you what it feels like to play. Wandering through the desolate streets of BABBDI, surrounded by muted gray tones, I found myself immersed in its quiet melancholy. The air felt heavy with stories untold, whispers of lives once lived but now absent. There’s no rush to leave, no immediate threat to overcome—just the haunting beauty of a forgotten place.&lt;/p&gt;
 &lt;p&gt;It’s a game that lingers in your mind long after you’ve played it, much like a dream you can’t quite shake. I’ve promised myself I’ll return to BABBDI one day when I’m in the right mood, just to stroll through its streets again and let its atmosphere wash over me.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/liminal-space/3.png&#34;
@@ -761,8 +759,7 @@ This post was created with the help of an LLM ( also incorrectly referred to as 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot; You are the Dark Queen—the most powerful being of your entire universe. Your lair is breached by an aspiring hero—a pitiful thing, easily crushed.&lt;/p&gt;
 &lt;p&gt;Except they keep coming back.&lt;/p&gt;
-&lt;p&gt;A 20 minute anti-game about an unconventional relationship and the capacity for change.&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;A 20 minute anti-game about an unconventional relationship and the capacity for change.&amp;quot;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
             src=&#34;https://www.youtube.com/embed/2-pAro_ma5A&#34; 
