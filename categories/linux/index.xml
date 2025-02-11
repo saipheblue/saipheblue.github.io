@@ -6,7 +6,182 @@
         <description>Recent content in Linux on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CTRL &#43; U</title>
+        <link>https://saipheblue.github.io/p/ctrl--u/</link>
+        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/ctrl--u/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/ctrl--u/1.png" alt="Featured image of post CTRL &#43; U" /&gt;&lt;h2 id=&#34;keyboard-shortcut&#34;&gt;Keyboard Shortcut
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;CTRL + U&lt;/code&gt; clears all inputs from text fields, for example, when entering a username or password. No need to select everything and delete it or smash the backspace key.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Funny Linux Commands</title>
+        <link>https://saipheblue.github.io/p/funny-linux-commands/</link>
+        <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/funny-linux-commands/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/funny-linux-commands/2.png" alt="Featured image of post Funny Linux Commands" /&gt;&lt;h2 id=&#34;cowsay&#34;&gt;Cowsay
+&lt;/h2&gt;&lt;p&gt;Cowsay is a hilarious ASCII art tool that lets a cow (or other animals) say the text you define.&lt;/p&gt;
+&lt;p&gt;Install it using pacman:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S cowsay
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Use cowsay:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cowsay &amp;lt;message&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/funny-linux-commands/4.png&#34;
+	width=&#34;320&#34;
+	height=&#34;171&#34;
+	srcset=&#34;https://saipheblue.github.io/p/funny-linux-commands/4_hu_f6f947134abd5a41.png 480w, https://saipheblue.github.io/p/funny-linux-commands/4_hu_7b162188ed6d8019.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;cowsay hi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;187&#34;
+		data-flex-basis=&#34;449px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;For greedy eyes:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cowsay -g &amp;lt;message&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/funny-linux-commands/6.png&#34;
+	width=&#34;304&#34;
+	height=&#34;170&#34;
+	srcset=&#34;https://saipheblue.github.io/p/funny-linux-commands/6_hu_2bc1845f8b9e2c1b.png 480w, https://saipheblue.github.io/p/funny-linux-commands/6_hu_eb6ce85b89017732.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;cowsay -g hi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;429px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;There are other ascii animals that you can use in palce of cow you can list them using &lt;code&gt;cowsay -l&lt;/code&gt; and switch them with &lt;code&gt;-f&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cowsay -f &amp;lt;animal name&amp;gt; &amp;lt;message&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/funny-linux-commands/7.png&#34;
+	width=&#34;351&#34;
+	height=&#34;408&#34;
+	srcset=&#34;https://saipheblue.github.io/p/funny-linux-commands/7_hu_930443bc97fdba9e.png 480w, https://saipheblue.github.io/p/funny-linux-commands/7_hu_f8ef70cdb124e7de.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;cowsay -f fox hi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;86&#34;
+		data-flex-basis=&#34;206px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;options&#34;&gt;Options:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-b&lt;/code&gt; Invokes Borg mode&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-d&lt;/code&gt; Causes the cow to appear dead&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-p&lt;/code&gt; Makes the cow paranoid&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-s&lt;/code&gt; Makes the cow appear thoroughly stoned&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-t&lt;/code&gt; A tired cow&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-y&lt;/code&gt; A youthful cow&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-r&lt;/code&gt; Random animal (instead of &lt;code&gt;-f&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cowthink&#34;&gt;Cowthink
+&lt;/h3&gt;&lt;p&gt;Want the cow to think instead of speak? Try:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/funny-linux-commands/5.png&#34;
+	width=&#34;302&#34;
+	height=&#34;166&#34;
+	srcset=&#34;https://saipheblue.github.io/p/funny-linux-commands/5_hu_6e2e1e513bafbe66.png 480w, https://saipheblue.github.io/p/funny-linux-commands/5_hu_71819b7f9630cfcd.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;cowthink hi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;181&#34;
+		data-flex-basis=&#34;436px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This changes the speech bubble to a thought bubble, like in comics!&lt;/p&gt;
+&lt;h2 id=&#34;sl&#34;&gt;sl
+&lt;/h2&gt;&lt;p&gt;The command &lt;code&gt;sl&lt;/code&gt; is a fun tool created to mock the commonly misspelled &lt;code&gt;ls&lt;/code&gt; command in Linux.&lt;/p&gt;
+&lt;p&gt;Install using pacman:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S sl
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/funny-linux-commands/1.png&#34;
+	width=&#34;915&#34;
+	height=&#34;435&#34;
+	srcset=&#34;https://saipheblue.github.io/p/funny-linux-commands/1_hu_2075ea0e70007dc0.png 480w, https://saipheblue.github.io/p/funny-linux-commands/1_hu_38b3192ac903e471.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;sl&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;210&#34;
+		data-flex-basis=&#34;504px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;When you run &lt;code&gt;sl&lt;/code&gt;, a train appears in your terminal. You can add more fun with various options:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-a&lt;/code&gt;: &lt;b&gt;Accident mode&lt;/b&gt; – You’ll see people crying for help. Not for the faint-hearted! ;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-l&lt;/code&gt;: &lt;b&gt;Miniature train&lt;/b&gt; – Shows a smaller train with more coaches.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-F&lt;/code&gt;: &lt;b&gt;Flying train&lt;/b&gt; – A train like the Polar Express.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-e&lt;/code&gt;: &lt;b&gt;Interruptible mode&lt;/b&gt; – Allows interruption with Ctrl+C. In other modes, you can&amp;rsquo;t stop the train. But it doesn’t last long unless you have a super-wide monitor.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-d&lt;/code&gt;: &lt;b&gt;Disco Mode&lt;/b&gt; – The train alternates colors.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-G&lt;/code&gt;: &lt;b&gt;Advanced trains&lt;/b&gt; – A new look, similar to advanced trains like the French TGV.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-w&lt;/code&gt;: &lt;b&gt;Speed boost&lt;/b&gt; – Makes the train move faster.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-[Number]&lt;/code&gt;: &lt;b&gt;Custom cars&lt;/b&gt; – Adjust the number of train cars.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/funny-linux-commands/3.png&#34;
+	width=&#34;1194&#34;
+	height=&#34;300&#34;
+	srcset=&#34;https://saipheblue.github.io/p/funny-linux-commands/3_hu_170ada30c8888ba6.png 480w, https://saipheblue.github.io/p/funny-linux-commands/3_hu_493ba83f97c49326.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;sl -G&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;398&#34;
+		data-flex-basis=&#34;955px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gamemode</title>
         <link>https://saipheblue.github.io/p/gamemode/</link>
         <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
