@@ -28,7 +28,7 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;where-to-download-vesktop&#34;&gt;Where to Download Vesktop
+&lt;h2 id=&#34;where-to-download-it&#34;&gt;Where to Download it
 &lt;/h2&gt;&lt;p&gt;Official Website: &lt;a class=&#34;link&#34; href=&#34;https://vencord.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;vencord.dev&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;GitHub Repository: &lt;a class=&#34;link&#34; href=&#34;https://github.com/Vencord/Vesktop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -49,7 +49,7 @@
 		data-flex-basis=&#34;480px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;why-use-vesktop&#34;&gt;Why Use Vesktop?
+&lt;h2 id=&#34;why-use-it&#34;&gt;Why Use it?
 &lt;/h2&gt;&lt;p&gt;Here are some of the key reasons to switch to Vesktop:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;✅ &lt;b&gt;Better Linux Support:&lt;/b&gt;
@@ -141,7 +141,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;📡 &lt;b&gt;WebScreenShareFixes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;WebScreenShareFixes&lt;/b&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Removes the 2500kbps bitrate cap on Chromium and Vesktop clients, improving screen-sharing quality.&lt;/li&gt;
 &lt;/ul&gt;
