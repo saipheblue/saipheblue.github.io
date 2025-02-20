@@ -12,10 +12,22 @@
         <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/p/arch-news-alert/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/arch-news-alert/1.png" alt="Featured image of post Arch News Alert" /&gt;&lt;h2 id=&#34;why&#34;&gt;Why?
+        <description>&lt;img src="https://saipheblue.github.io/p/arch-news-alert/3.png" alt="Featured image of post Arch News Alert" /&gt;&lt;h2 id=&#34;why&#34;&gt;Why?
 &lt;/h2&gt;&lt;p&gt;I got tired of manually checking &lt;a class=&#34;link&#34; href=&#34;https://archlinux.org/news&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;archlinux.org/news&lt;/a&gt; every day just to see if there were any critical updates requiring manual steps (you know, the dreaded &lt;code&gt;manual intervention&lt;/code&gt;). So, I decided to automate it by adding a simple notification to my Polybar that shows the latest news headline.&lt;/p&gt;
 &lt;p&gt;When clicked, the notification disappears, and if manual intervention is required, it highlights the alert with exclamation marks—ensuring important updates aren’t missed and the system stays stable.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/arch-news-alert/2.png&#34;
+	width=&#34;1493&#34;
+	height=&#34;489&#34;
+	srcset=&#34;https://saipheblue.github.io/p/arch-news-alert/2_hu_ea68053dd90a2daa.png 480w, https://saipheblue.github.io/p/arch-news-alert/2_hu_51c312f7c2e7446b.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;305&#34;
+		data-flex-basis=&#34;732px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;module&#34;&gt;Module
 &lt;/h2&gt;&lt;p&gt;Add the following to your module file inside your rice folder:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
