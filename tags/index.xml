@@ -6,7 +6,47 @@
         <description>Recent content in Tags on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Arch Linux</title>
+        <link>https://saipheblue.github.io/tags/arch-linux/</link>
+        <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/arch-linux/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Bspwm</title>
+        <link>https://saipheblue.github.io/tags/bspwm/</link>
+        <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/bspwm/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Polybar</title>
+        <link>https://saipheblue.github.io/tags/polybar/</link>
+        <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/polybar/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tiling Windows Manager</title>
+        <link>https://saipheblue.github.io/tags/tiling-windows-manager/</link>
+        <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/tiling-windows-manager/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tweaks</title>
+        <link>https://saipheblue.github.io/tags/tweaks/</link>
+        <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/tweaks/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Adblock</title>
         <link>https://saipheblue.github.io/tags/adblock/</link>
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
@@ -20,14 +60,6 @@
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/application/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Arch Linux</title>
-        <link>https://saipheblue.github.io/tags/arch-linux/</link>
-        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/arch-linux/</guid>
         <description></description>
         </item>
         <item>
@@ -92,14 +124,6 @@
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/terminal/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tweaks</title>
-        <link>https://saipheblue.github.io/tags/tweaks/</link>
-        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/tweaks/</guid>
         <description></description>
         </item>
         <item>
@@ -324,14 +348,6 @@
         <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/audio/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Bspwm</title>
-        <link>https://saipheblue.github.io/tags/bspwm/</link>
-        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/bspwm/</guid>
         <description></description>
         </item>
         <item>

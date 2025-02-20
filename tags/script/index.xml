@@ -14,7 +14,7 @@
         <guid>https://saipheblue.github.io/p/quick-audio-management/</guid>
         <description>&lt;img src="https://saipheblue.github.io/p/quick-audio-management/1.png" alt="Featured image of post Quick Audio Management" /&gt;&lt;p&gt;I was looking for a Linux alternative to the Win + G shortcut in Windows, which opens the Xbox Game Bar. I used this feature for quickly and conveniently managing audio, but there was nothing similar on Linux. So, I created this script to fill the gap.&lt;/p&gt;
 &lt;p&gt;This script was primarily created for the &lt;code&gt;bspwm&lt;/code&gt;  tiling window manager but might work with some tweaks on other window managers.&lt;/p&gt;
-&lt;h1 id=&#34;steps-to-use&#34;&gt;Steps to Use:
+&lt;h1 id=&#34;steps-to-use&#34;&gt;Steps to Use
 &lt;/h1&gt;&lt;h2 id=&#34;keybind&#34;&gt;Keybind
 &lt;/h2&gt;&lt;p&gt;Edit your keyboard shortcuts in the &lt;code&gt;sxhkdrc&lt;/code&gt; file, located at  &lt;code&gt;.config/bspwm/&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Example:&lt;/p&gt;
