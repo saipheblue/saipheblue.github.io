@@ -6,7 +6,25 @@
         <description>Recent content in Youtube on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>YouTube Video Finder</title>
+        <link>https://saipheblue.github.io/p/youtube-video-finder/</link>
+        <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/youtube-video-finder/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/youtube-video-finder/2.png" alt="Featured image of post YouTube Video Finder" /&gt;&lt;p&gt;Have you ever felt that sinking feeling when you see &lt;code&gt;&amp;quot;This video has been deleted&amp;quot;&lt;/code&gt; in a YouTube playlist, and you have no idea what it was? Was it a video you loved or just something you wouldn’t miss?&lt;/p&gt;
+&lt;p&gt;Either way, not knowing can be frustrating.&lt;/p&gt;
+&lt;p&gt;This tool helps you identify the title of deleted YouTube videos so you can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Search for alternative uploads&lt;/li&gt;
+&lt;li&gt;Find similar content&lt;/li&gt;
+&lt;li&gt;Or simply know what you’ve lost&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check it out here:&lt;b&gt; &lt;a class=&#34;link&#34; href=&#34;https://findyoutubevideo.thetechrobo.ca/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://findyoutubevideo.thetechrobo.ca/&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>YT-X</title>
         <link>https://saipheblue.github.io/p/yt-x/</link>
         <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
