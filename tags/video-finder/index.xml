@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Video Finder on Saitech</title>
+        <link>http://localhost:1313/tags/video-finder/</link>
+        <description>Recent content in Video Finder on Saitech</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/video-finder/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>YouTube Video Finder</title>
+        <link>http://localhost:1313/p/youtube-video-finder/</link>
+        <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/youtube-video-finder/</guid>
+        <description>&lt;img src="http://localhost:1313/p/youtube-video-finder/1.png" alt="Featured image of post YouTube Video Finder" /&gt;&lt;p&gt;Have you ever felt that sinking feeling when you see &amp;ldquo;This video has been deleted&amp;rdquo; in a YouTube playlist, and you have no idea what it was? Was it a video you loved or just something you wouldn’t miss?&lt;/p&gt;
+&lt;p&gt;Either way, not knowing can be frustrating.&lt;/p&gt;
+&lt;p&gt;This tool helps you identify the title of deleted YouTube videos so you can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Search for alternative uploads&lt;/li&gt;
+&lt;li&gt;Find similar content&lt;/li&gt;
+&lt;li&gt;Or simply know what you’ve lost&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check it out here: &lt;a class=&#34;link&#34; href=&#34;https://findyoutubevideo.thetechrobo.ca/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://findyoutubevideo.thetechrobo.ca/&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
