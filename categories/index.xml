@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Linux</title>
+        <link>https://saipheblue.github.io/categories/linux/</link>
+        <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/categories/linux/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/categories/linux/1.png" alt="Featured image of post Linux" /&gt;</description>
+        </item>
+        <item>
         <title>Bookmark</title>
         <link>https://saipheblue.github.io/categories/bookmark/</link>
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
@@ -29,14 +37,6 @@
         
         <guid>https://saipheblue.github.io/categories/guide/</guid>
         <description>&lt;img src="https://saipheblue.github.io/categories/guide/1.png" alt="Featured image of post Guide" /&gt;</description>
-        </item>
-        <item>
-        <title>Linux</title>
-        <link>https://saipheblue.github.io/categories/linux/</link>
-        <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/categories/linux/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/categories/linux/1.png" alt="Featured image of post Linux" /&gt;</description>
         </item>
         <item>
         <title>Hardware</title>

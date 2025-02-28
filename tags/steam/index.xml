@@ -6,7 +6,56 @@
         <description>Recent content in Steam on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/steam/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/steam/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MangoHud</title>
+        <link>https://saipheblue.github.io/p/mangohud/</link>
+        <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/mangohud/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/mangohud/1.png" alt="Featured image of post MangoHud" /&gt;&lt;p&gt;Overlay for monitoring FPS, frame times, GPU usage, etc., in-game.&lt;/p&gt;
+&lt;p&gt;Install MangoHud:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S mangohud
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Enable MangoHud in Steam:&lt;/p&gt;
+&lt;p&gt;Go to Game Properties → Launch Options and add:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;MANGOHUD=1 %command%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Limit FPS to 60:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;MANGOHUD_CONFIG=fps_limit=60 %command%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/mangohud/1.jpg&#34;
+	width=&#34;474&#34;
+	height=&#34;266&#34;
+	srcset=&#34;https://saipheblue.github.io/p/mangohud/1_hu_bccd31ef22cdfa3.jpg 480w, https://saipheblue.github.io/p/mangohud/1_hu_53edd20db56c7aa8.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gamemode</title>
         <link>https://saipheblue.github.io/p/gamemode/</link>
         <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>

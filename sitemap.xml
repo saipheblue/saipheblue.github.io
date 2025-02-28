@@ -3,21 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://saipheblue.github.io/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/arch-linux/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/categories/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/launch-command/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/categories/linux/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/p/mangohud/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/mangohud/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/post/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/steam/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/tool/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/tweak/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/bookmark/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/categories/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/post/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/tags/site/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/tools/</loc>
@@ -59,9 +83,6 @@
     <loc>https://saipheblue.github.io/p/within-a-deep-forest/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/tags/arch-linux/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/p/arch-news-alert/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,9 +90,6 @@
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/guide/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/categories/linux/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/polybar/</loc>
@@ -131,9 +149,6 @@
     <loc>https://saipheblue.github.io/tags/github/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/tags/steam/</loc>
-    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/tags/craft/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -173,10 +188,10 @@
     <loc>https://saipheblue.github.io/tags/exploration-games/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/tags/liminal-space/</loc>
+    <loc>https://saipheblue.github.io/p/liminal-space/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/p/liminal-space/</loc>
+    <loc>https://saipheblue.github.io/tags/liminal-space/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/tsutomu-nihei/</loc>
