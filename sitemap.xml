@@ -3,30 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://saipheblue.github.io/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/apo/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/application/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/arch-linux/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/audio/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/p/audio-eq-for-windows-linux/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/easyeffects/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/equalizer/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/guide/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/headphones/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/linux/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/linux/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/tags/mac/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/tags/peace/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/post/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/preset/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/tools/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/windows/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/mac/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/productivity/</loc>
@@ -38,16 +71,7 @@
     <loc>https://saipheblue.github.io/p/super-productivity/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/tags/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/tags/todo-list/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/tools/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/windows/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/launch-command/</loc>
@@ -226,9 +250,6 @@
   </url><url>
     <loc>https://saipheblue.github.io/p/tosdr/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/audio/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/p/quick-audio-management/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
