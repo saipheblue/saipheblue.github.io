@@ -6,12 +6,76 @@
         <description>Recent content in Tags on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Application</title>
+        <link>https://saipheblue.github.io/tags/application/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/application/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Arch Linux</title>
         <link>https://saipheblue.github.io/tags/arch-linux/</link>
-        <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/arch-linux/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Linux</title>
+        <link>https://saipheblue.github.io/tags/linux/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/linux/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mac</title>
+        <link>https://saipheblue.github.io/tags/mac/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/mac/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Productivity</title>
+        <link>https://saipheblue.github.io/tags/productivity/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/productivity/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Super</title>
+        <link>https://saipheblue.github.io/tags/super/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/super/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ToDo List</title>
+        <link>https://saipheblue.github.io/tags/todo-list/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/todo-list/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tools</title>
+        <link>https://saipheblue.github.io/tags/tools/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/tools/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Windows</title>
+        <link>https://saipheblue.github.io/tags/windows/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/tags/windows/</guid>
         <description></description>
         </item>
         <item>
@@ -60,14 +124,6 @@
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/site/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tools</title>
-        <link>https://saipheblue.github.io/tags/tools/</link>
-        <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/tools/</guid>
         <description></description>
         </item>
         <item>
@@ -183,27 +239,11 @@
         <description></description>
         </item>
         <item>
-        <title>Application</title>
-        <link>https://saipheblue.github.io/tags/application/</link>
-        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/application/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Discord</title>
         <link>https://saipheblue.github.io/tags/discord/</link>
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/discord/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Mac</title>
-        <link>https://saipheblue.github.io/tags/mac/</link>
-        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/mac/</guid>
         <description></description>
         </item>
         <item>
@@ -228,14 +268,6 @@
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/tags/vesktop/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Windows</title>
-        <link>https://saipheblue.github.io/tags/windows/</link>
-        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saipheblue.github.io/tags/windows/</guid>
         <description></description>
         </item>
         <item>

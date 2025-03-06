@@ -6,7 +6,83 @@
         <description>Recent content in Mac on Saitech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saipheblue.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Super-productivity</title>
+        <link>https://saipheblue.github.io/p/super-productivity/</link>
+        <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saipheblue.github.io/p/super-productivity/</guid>
+        <description>&lt;img src="https://saipheblue.github.io/p/super-productivity/3.png" alt="Featured image of post Super-productivity" /&gt;&lt;p&gt;Super Productivity has become my go-to app for staying organized and on track. I can easily track birthdays, create to-do lists for everything from movies I want to watch to things I need to buy, and much more. But what I love most is the ability to schedule tasks and set reminders. It’s exactly what I was looking for!&lt;/p&gt;
+&lt;p&gt;Although I don’t use all the features, Super Productivity has some excellent extras like Pomodoro timers, focus mode, time tracking, and support for syncing with Dropbox, WebDAV, or local files. It gives you all the tools you need to stay on top of things, even if you’re not using every single feature.&lt;/p&gt;
+&lt;p&gt;Official site:&lt;b&gt; &lt;a class=&#34;link&#34; href=&#34;https://super-productivity.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://super-productivity.com/&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/super-productivity/2.png&#34;
+	width=&#34;801&#34;
+	height=&#34;750&#34;
+	srcset=&#34;https://saipheblue.github.io/p/super-productivity/2_hu_d09a14a6fa4076ad.png 480w, https://saipheblue.github.io/p/super-productivity/2_hu_68cb5725cb50daf6.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;106&#34;
+		data-flex-basis=&#34;256px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;arch-linux&#34;&gt;Arch linux
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://aur.archlinux.org/superproductivity-bin.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd superproductivity-bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;makepkg -si
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;flatpak&#34;&gt;Flatpak
+&lt;/h2&gt;&lt;h3 id=&#34;install&#34;&gt;Install
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;flatpak install flathub com.super_productivity.SuperProductivity
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;run&#34;&gt;Run
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;flatpak run com.super_productivity.SuperProductivity
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;android&#34;&gt;Android
+&lt;/h2&gt;&lt;p&gt;Get it from
+&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Google Play&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sync-android-and-pc-with-dropbox&#34;&gt;Sync Android and PC with Dropbox
+&lt;/h2&gt;&lt;p&gt;If you want to sync your tasks between your Android phone and PC, follow these steps:&lt;/p&gt;
+&lt;h3 id=&#34;on-the-pc-app&#34;&gt;On the PC App
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Go to Settings → Sync &amp;amp; Export.&lt;/li&gt;
+&lt;li&gt;Enable Syncing and, if you want, enable Compression for faster syncing.&lt;/li&gt;
+&lt;li&gt;Set the Sync Provider to Dropbox. This will redirect you to Dropbox in your browser.&lt;/li&gt;
+&lt;li&gt;Create a Dropbox account (if you don’t have one) and copy the code from Dropbox.&lt;/li&gt;
+&lt;li&gt;Paste that code into your Super Productivity app. You’re all set!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;on-the-mobile-app&#34;&gt;On the Mobile App
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Repeat the same process as on your PC. Choose which data to keep (remote from your PC or local from your phone).&lt;/li&gt;
+&lt;li&gt;Your devices should sync automatically based on your set interval, but you can always sync manually by clicking the icon at the top right corner.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That’s it! You’re ready to sync between your Android and PC and keep everything organized.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Vencord / Vesktop</title>
         <link>https://saipheblue.github.io/p/vencord-/-vesktop/</link>
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>

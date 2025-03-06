@@ -3,18 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://saipheblue.github.io/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/application/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/arch-linux/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/tags/launch-command/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://saipheblue.github.io/categories/guide/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/categories/linux/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/linux/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/mac/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/post/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/productivity/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/super/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/p/super-productivity/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/todo-list/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/tools/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/windows/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saipheblue.github.io/tags/launch-command/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/p/mangohud/</loc>
@@ -23,13 +59,7 @@
     <loc>https://saipheblue.github.io/tags/mangohud/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/post/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/tags/steam/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/tool/</loc>
@@ -42,9 +72,6 @@
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/site/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/tools/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/video-finder/</loc>
@@ -89,9 +116,6 @@
     <loc>https://saipheblue.github.io/tags/bspwm/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/categories/guide/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/tags/polybar/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -104,13 +128,7 @@
     <loc>https://saipheblue.github.io/tags/adblock/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saipheblue.github.io/tags/application/</loc>
-    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://saipheblue.github.io/tags/discord/</loc>
-    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/mac/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/plugins/</loc>
@@ -123,9 +141,6 @@
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/tags/vesktop/</loc>
-    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saipheblue.github.io/tags/windows/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saipheblue.github.io/p/ctrl--u/</loc>
