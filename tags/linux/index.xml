@@ -12,7 +12,8 @@
         <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saipheblue.github.io/p/audio-eq-for-windows-linux/</guid>
-        <description>&lt;img src="https://saipheblue.github.io/p/audio-eq-for-windows-linux/4.png" alt="Featured image of post Audio EQ for Windows &amp; Linux" /&gt;&lt;p&gt;Want to take your audio experience to the next level? Whether you’re on Windows or Linux, Equalizer APO (paired with PEACE on Windows) and EasyEffects for Linux give you full control over your sound. This guide will walk you through how to set them up and get the best out of your headphones.&lt;/p&gt;
+        <description>&lt;img src="https://saipheblue.github.io/p/audio-eq-for-windows-linux/4.png" alt="Featured image of post Audio EQ for Windows &amp; Linux" /&gt;&lt;p&gt;Want to take your audio experience to the next level? Whether you’re on Windows or Linux, Equalizer APO (paired with PEACE on Windows) and EasyEffects for Linux give you full control over your sound.&lt;/p&gt;
+&lt;p&gt;This guide will walk you through how to set them up and get the best out of your headphones.&lt;/p&gt;
 &lt;h2 id=&#34;linux-setup-easyeffects&#34;&gt;Linux Setup: EasyEffects
 &lt;/h2&gt;&lt;p&gt;For those using Linux, EasyEffects offers a sleek and intuitive interface that makes tweaking your system-wide audio simple. With a few adjustments, you’ll be on your way to a more customized listening experience.&lt;/p&gt;
 &lt;h3 id=&#34;install-easyeffects-via-flatpak&#34;&gt;Install EasyEffects via Flatpak
@@ -34,7 +35,7 @@
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Check out the &lt;b&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/jaakkopasanen/AutoEq/tree/master/results/oratory1990/over-ear&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;AutoEq repository&lt;/a&gt;&lt;/b&gt; on GitHub for pre-made EQ settings for your headphones.&lt;/li&gt;
-&lt;li&gt;Manually apply these settings within EasyEffects by adjusting the graphic or parametric equalizer to match the profile of your headphones.&lt;/li&gt;
+&lt;li&gt;Manually apply these settings within EasyEffects by adjusting the graphic or parametric equalizer to match the profile of your headphones. Pre-amp can be applied via moving &amp;ldquo;Input&amp;rdquo; bar.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Do not forget to save your preset !&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://saipheblue.github.io/p/audio-eq-for-windows-linux/3.png&#34;
